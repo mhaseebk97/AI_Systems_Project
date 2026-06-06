@@ -1,0 +1,185 @@
+<!--<!doctype html><meta charset="utf-8"><title>MyGPT (local)</title>-->
+<!--<style>-->
+<!--  body{font-family:system-ui,sans-serif;max-width:860px;margin:2rem auto}-->
+<!--  #log{border:1px solid #ddd;border-radius:12px;padding:1rem;min-height:320px;white-space:pre-wrap}-->
+<!--  textarea,button{padding:.7rem;border:1px solid #ddd;border-radius:10px}-->
+<!--  textarea{width:100%}-->
+<!--</style>-->
+<!--<h1>MyGPT (Ollama)</h1>-->
+<!--<label>Session: <input id="sid" value="default"></label>-->
+<!--<div id="log"></div>-->
+<!--<form id="f"><textarea id="t" rows="3" placeholder="Ask anything..."></textarea><br><button>Send</button></form>-->
+<!--<script>-->
+<!--const log=document.getElementById('log'); const sid=document.getElementById('sid');-->
+<!--const msgs=[];-->
+<!--const render=()=>log.innerHTML=msgs.map(m=>`**${m.role}**: ${m.content}`).join('\n\n');-->
+<!--document.getElementById('f').onsubmit=async e=>{-->
+<!--  e.preventDefault(); const t=document.getElementById('t'); const q=t.value.trim(); if(!q) return;-->
+<!--  msgs.push({role:'user',content:q}); render(); t.value='';-->
+<!--  const resp=await fetch('http://127.0.0.1:8000/chat',{-->
+<!--    method:'POST', headers:{'Content-Type':'application/json'},-->
+<!--    body:JSON.stringify({session:sid.value, message:q})-->
+<!--  });-->
+<!--  let cur={role:'assistant',content:''}; msgs.push(cur);-->
+<!--  const reader=resp.body.getReader(); const dec=new TextDecoder();-->
+<!--  while(true){const {value,done}=await reader.read(); if(done) break;-->
+<!--    cur.content+=dec.decode(value,{stream:true}); render();}-->
+<!--};-->
+<!--</script>-->
+
+
+
+
+<!----------------------------------------------------------------------->
+<!--<!doctype html><meta charset="utf-8"><title>MyGPT (local)</title>-->
+<!--<style>-->
+<!--  body{font-family:system-ui,sans-serif;max-width:860px;margin:2rem auto}-->
+<!--  #log{border:1px solid #ddd;border-radius:12px;padding:1rem;min-height:320px;white-space:pre-wrap}-->
+<!--  textarea,button,input{padding:.7rem;border:1px solid #ddd;border-radius:10px}-->
+<!--  textarea{width:100%}-->
+<!--</style>-->
+<!--<h1>MyGPT (Ollama)</h1>-->
+<!--<label>Session: <input id="sid" value="default"></label>-->
+<!--<div id="log"></div>-->
+<!--<form id="f"><textarea id="t" rows="3" placeholder="Ask anything..."></textarea><br><button>Send</button></form>-->
+<!--<script>-->
+<!--const log=document.getElementById('log');-->
+<!--const sid=document.getElementById('sid');-->
+<!--const msgs=[];-->
+
+<!--function render(){ log.innerHTML = msgs.map(m=>`**${m.role}**: ${m.content}`).join('\n\n'); }-->
+
+<!--document.getElementById('f').onsubmit = async (e) => {-->
+<!--  e.preventDefault();-->
+<!--  const q = document.getElementById('t').value.trim();-->
+<!--  if (!q) return;-->
+<!--  document.getElementById('t').value = '';-->
+
+<!--  // show user message-->
+<!--  msgs.push({role:'user', content:q}); render();-->
+
+<!--  // call API with { session, message }-->
+<!--  const resp = await fetch('http://127.0.0.1:8000/chat', {-->
+<!--    method:'POST',-->
+<!--    headers:{'Content-Type':'application/json'},-->
+<!--    body: JSON.stringify({ session: sid.value || 'default', message: q })-->
+<!--  });-->
+
+<!--  if (!resp.ok || !resp.body) {-->
+<!--    const text = await resp.text().catch(()=> '');-->
+<!--    msgs.push({role:'assistant', content:`[error ${resp.status}] ${text || 'no response body'}`});-->
+<!--    render();-->
+<!--    return;-->
+<!--  }-->
+
+<!--  // stream chunks-->
+<!--  let cur = {role:'assistant', content:''}; msgs.push(cur); render();-->
+<!--  const reader = resp.body.getReader(); const dec = new TextDecoder();-->
+<!--  while (true) {-->
+<!--    const { value, done } = await reader.read();-->
+<!--    if (done) break;-->
+<!--    cur.content += dec.decode(value, {stream:true});-->
+<!--    render();-->
+<!--  }-->
+<!--};-->
+<!--</script>-->
+
+
+
+<!---------------------------------------------------------------->
+<!doctype html>
+<meta charset="utf-8">
+<title>MyGPT (local)</title>
+<style>
+  body{font-family:system-ui,sans-serif;max-width:860px;margin:2rem auto}
+  #status{margin-bottom:10px;font-size:.9rem;opacity:.8}
+  #log{border:1px solid #ddd;border-radius:12px;padding:1rem;min-height:320px;white-space:pre-wrap}
+  textarea,button,input{padding:.7rem;border:1px solid #ddd;border-radius:10px}
+  textarea{width:100%}
+  .row{display:flex;gap:.5rem;align-items:center;margin-bottom:.5rem}
+</style>
+
+<h1>MyGPT (local)</h1>
+<div id="status">status: checking…</div>
+<div class="row">
+  <label>Session: <input id="sid" value="default"></label>
+  <button id="test" type="button">Stream test</button>
+  <button id="ping" type="button">Ping</button>
+</div>
+<div id="log"></div>
+<form id="f" style="margin-top:10px">
+  <textarea id="t" rows="3" placeholder="Ask anything..."></textarea><br>
+  <button type="submit">Send</button>
+</form>
+
+<script>
+const API = "http://127.0.0.1:8010";
+const statusEl = document.getElementById('status');
+const logEl = document.getElementById('log');
+const sidEl = document.getElementById('sid');
+const msgs = [];
+function render(){ logEl.innerHTML = msgs.map(m => `**${m.role}**: ${m.content}`).join('\n\n'); }
+
+async function health(){
+  try{
+    const r = await fetch(`${API}/health`, {cache:"no-store"});
+    const j = await r.json();
+    statusEl.textContent = `status: ok | model=${j.model}`;
+    console.log("health", j);
+  }catch(e){
+    statusEl.textContent = `status: error: ${e}`;
+    console.error("health failed", e);
+  }
+}
+
+document.getElementById('ping').onclick = health;
+
+document.getElementById('test').onclick = async () => {
+  msgs.push({role:'system', content:'[starting /chat_test stream...]'}); render();
+  try{
+    const resp = await fetch(`${API}/chat_test`, {cache:"no-store"});
+    if (!resp.ok || !resp.body) throw new Error(`HTTP ${resp.status}`);
+    let cur = {role:'assistant', content:''}; msgs.push(cur); render();
+    const reader = resp.body.getReader(); const dec = new TextDecoder();
+    while(true){
+      const {value, done} = await reader.read();
+      if (done) break;
+      cur.content += dec.decode(value, {stream:true});
+      render();
+    }
+  }catch(e){
+    msgs.push({role:'assistant', content:`[stream test error] ${e.message || e}`}); render();
+    console.error(e);
+  }
+};
+
+document.getElementById('f').onsubmit = async (e) => {
+  e.preventDefault();
+  const q = document.getElementById('t').value.trim();
+  if (!q) return;
+  document.getElementById('t').value = '';
+  msgs.push({role:'user', content:q}); render();
+
+  try{
+    const resp = await fetch(`${API}/chat`, {
+      method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({ session: sidEl.value || "default", message: q })
+    });
+    if (!resp.ok || !resp.body) throw new Error(`HTTP ${resp.status}`);
+    let cur = {role:'assistant', content:''}; msgs.push(cur); render();
+    const reader = resp.body.getReader(); const dec = new TextDecoder();
+    while(true){
+      const { value, done } = await reader.read();
+      if (done) break;
+      cur.content += dec.decode(value,{stream:true});
+      render();
+    }
+  }catch(e){
+    msgs.push({role:'assistant', content:`[chat error] ${e.message || e}`}); render();
+    console.error(e);
+  }
+};
+
+health();
+</script>

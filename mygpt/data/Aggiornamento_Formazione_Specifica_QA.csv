@@ -1,0 +1,851 @@
+id,prospettiva,categoria,domanda,risposta,citazioni
+1,Lavoratore,Aggiornamento formazione,Ogni quanto devo aggiornare la formazione sulla sicurezza?,Ogni cinque anni è obbligatorio aggiornare la formazione.,fileciteturn3file0
+2,Azienda,Aggiornamento formazione,Qual è la durata minima del corso di aggiornamento per i lavoratori?,Almeno 6 ore complessive nel quinquennio.,fileciteturn3file0
+3,Lavoratore,Aggiornamento formazione,Posso dividere le 6 ore in più momenti?,"Sì, puoi suddividerle lungo i cinque anni oppure svolgerle in un'unica sessione.",fileciteturn3file0
+4,Azienda,Aggiornamento formazione,Possiamo riconoscere seminari o convegni come aggiornamento?,"Sì, fino a un terzo delle ore può essere sostituito da convegni/seminari con verifica finale dell’apprendimento.",fileciteturn3file0
+5,Lavoratore,Aggiornamento formazione,Chi deve aggiornarsi oltre ai dipendenti?,Anche chi opera senza compenso nell’organizzazione (ad es. per imparare un mestiere) rientra nell’obbligo.,fileciteturn3file0
+6,Azienda,Aggiornamento formazione,Quali argomenti trattare nell’aggiornamento?,Approfondimento dei temi del corso base e novità legislative/normative degli ultimi anni.,fileciteturn3file0
+7,Lavoratore,Aggiornamento formazione,Cosa succede se non aggiorno la formazione entro 5 anni?,La formazione decade: non sei più aggiornato su norme e rischi specifici.,fileciteturn3file0
+8,Azienda,Aggiornamento formazione,Quali sanzioni per datore/dirigente se i lavoratori non sono aggiornati?,"Art. 37 D.Lgs. 81/2008: arresto da 2 a 4 mesi oppure ammenda da € 1.474,21 a € 6.388,23.",fileciteturn3file0
+9,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo I – Principi generali?,"Diritti e doveri di datore, dirigenti, preposti e lavoratori; prevenzione e protezione.",fileciteturn3file0
+10,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo I – Principi generali nella formazione specifica?,"Inserisci esempi e procedure aziendali coerenti con: Diritti e doveri di datore, dirigenti, preposti e lavoratori; prevenzione e protezione.",fileciteturn3file0
+11,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo II – Luoghi di lavoro?,"Requisiti di salute e sicurezza di ambienti, strutture e impianti.",fileciteturn3file0
+12,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo II – Luoghi di lavoro nella formazione specifica?,"Inserisci esempi e procedure aziendali coerenti con: Requisiti di salute e sicurezza di ambienti, strutture e impianti.",fileciteturn3file0
+13,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo III – Attrezzature e DPI?,Uso sicuro di macchine/utensili e dispositivi di protezione individuale.,fileciteturn3file0
+14,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo III – Attrezzature e DPI nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Uso sicuro di macchine/utensili e dispositivi di protezione individuale.,fileciteturn3file0
+15,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo IV – Cantieri temporanei e mobili?,Norme specifiche per i cantieri con elevato rischio infortunistico.,fileciteturn3file0
+16,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo IV – Cantieri temporanei e mobili nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Norme specifiche per i cantieri con elevato rischio infortunistico.,fileciteturn3file0
+17,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo V – Segnaletica?,Cartelli e segnali per prevenire incidenti e indirizzare comportamenti.,fileciteturn3file0
+18,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo V – Segnaletica nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Cartelli e segnali per prevenire incidenti e indirizzare comportamenti.,fileciteturn3file0
+19,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo VI – Movimentazione manuale?,Regole per ridurre danni – in particolare alla schiena – durante sollevamento/spostamento.,fileciteturn3file0
+20,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo VI – Movimentazione manuale nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Regole per ridurre danni – in particolare alla schiena – durante sollevamento/spostamento.,fileciteturn3file0
+21,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo VII – Videoterminali?,Rischi correlati a uso prolungato del computer: postura e vista.,fileciteturn3file0
+22,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo VII – Videoterminali nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Rischi correlati a uso prolungato del computer: postura e vista.,fileciteturn3file0
+23,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo VIII – Agenti fisici?,"Rumore, vibrazioni, CEM, radiazioni, ecc.",fileciteturn3file0
+24,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo VIII – Agenti fisici nella formazione specifica?,"Inserisci esempi e procedure aziendali coerenti con: Rumore, vibrazioni, CEM, radiazioni, ecc.",fileciteturn3file0
+25,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo IX – Sostanze pericolose?,Gestione e uso sicuro di sostanze chimiche e tossiche.,fileciteturn3file0
+26,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo IX – Sostanze pericolose nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Gestione e uso sicuro di sostanze chimiche e tossiche.,fileciteturn3file0
+27,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo X – Agenti biologici?,Esposizione a microrganismi nocivi.,fileciteturn3file0
+28,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo X – Agenti biologici nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Esposizione a microrganismi nocivi.,fileciteturn3file0
+29,Lavoratore,D.Lgs. 81/08 – Struttura,Cosa prevede il Titolo XI – ATEX?,Protezione da atmosfere esplosive.,fileciteturn3file0
+30,Azienda,D.Lgs. 81/08 – Struttura,Come recepire il Titolo XI – ATEX nella formazione specifica?,Inserisci esempi e procedure aziendali coerenti con: Protezione da atmosfere esplosive.,fileciteturn3file0
+31,Lavoratore,Luoghi di lavoro,Perché l’ordine in reparto è così importante?,"Riduce infortuni, mantiene vie di circolazione libere e migliora la gestione delle emergenze.",fileciteturn3file0
+32,Azienda,Luoghi di lavoro,Come garantiamo vie di fuga sempre libere?,"Pianificazione, controlli periodici, segnaletica chiara e rimozione immediata degli ostacoli.",fileciteturn3file0
+33,Lavoratore,Scale portatili,Qual è il rapporto di posizionamento della scala di appoggio?,Base posizionata a circa 1/4 dell’altezza complessiva (rapporto 1:4) su appoggio stabile e regolare.,fileciteturn3file0
+34,Lavoratore,Scale portatili,Come devo salire e scendere in sicurezza?,"Sempre fronte scala, mani sui montanti, attrezzi in borsa porta-attrezzi per avere le mani libere.",fileciteturn3file0
+35,Azienda,Scale portatili,Quale lunghezza deve avere la scala rispetto al piano di arrivo?,Deve superare il piano per consentire lo sbarco in sicurezza senza perdita di equilibrio.,fileciteturn3file0
+36,Azienda,Lavori in quota,Come organizzare il lavoro in quota per ridurre i rischi?,Preparazione e organizzazione a terra; in quota solo attività necessarie.,fileciteturn3file0
+37,Lavoratore,Lavori in quota,Quando usare corda di stazionamento o ancoraggio della scala?,Quando servono entrambe le mani o c’è rischio di scivolamento/ribaltamento: tieni la fune corta e ancora la scala a un punto fisso.,fileciteturn3file0
+38,Lavoratore,DPI,Quali DPI sono sempre richiesti in attività ad alto rischio (es. edili)?,"Elmetto, guanti e calzature di sicurezza adeguate al rischio.",fileciteturn3file0
+39,Azienda,DPI,Come scegliamo i DPI corretti?,"Devono essere adeguati al rischio e all’ambiente, ergonomici e compatibili se usati insieme.",fileciteturn3file0
+40,Lavoratore,DPI,Quali categorie di DPI esistono?,"I Categoria (rischi minimi), II Categoria (intermedi), III Categoria (rischi gravi o mortali).",fileciteturn3file0
+41,Azienda,DPI,Cosa significa marcatura CE su un DPI?,Conformità ai requisiti europei (RES); per DPI di III categoria compare anche il codice a 4 cifre dell’Organismo Notificato.,fileciteturn3file0
+42,Lavoratore,DPI,Quali informazioni devono riportare i DPI?,"Marchio del fabbricante, anno di costruzione, sigla identificativa, normativa di riferimento, livello di protezione.",fileciteturn3file0
+43,Azienda,DPI – Certificazione,Qual è la procedura per DPI di I categoria?,Dichiarazione di conformità CE del fabbricante.,fileciteturn3file0
+44,Azienda,DPI – Certificazione,Cosa serve per DPI di II categoria?,Dichiarazione di conformità CE e attestato di certificazione rilasciato da Organismo Notificato.,fileciteturn3file0
+45,Azienda,DPI – Certificazione,Quali obblighi per DPI di III categoria?,"Dichiarazione di conformità, attestato di certificazione e verifica annuale obbligatoria del prodotto.",fileciteturn3file0
+46,Lavoratore,Attrezzature di lavoro,Cosa si intende per 'utilizzo prevedibile' di un’attrezzatura?,Anche usi impropri ma ragionevolmente prevedibili devono essere considerati dal costruttore per ridurre i rischi.,fileciteturn3file0
+47,Azienda,Attrezzature di lavoro,Quali sono i RES che guidano progettazione e scelta delle macchine?,"Eliminazione/riduzione rischi, sicurezza nell’uso normale e prevedibile, riduzione di fatica, accessori e dispositivi adeguati.",fileciteturn3file0
+48,Azienda,Attrezzature di lavoro,Quali obblighi abbiamo prima di mettere a disposizione un’attrezzatura?,"Verificare conformità e idoneità, informare/formare/addestrare, adottare misure tecniche e organizzative.",fileciteturn3file0
+49,Azienda,Attrezzature di lavoro,Come gestire manutenzione e controlli?,"Manutenzione periodica, uso secondo istruzioni, registri aggiornati; uso e manutenzione solo da personale incaricato/qualificato.",fileciteturn3file0
+50,Lavoratore,Segnaletica,Quali sono le principali categorie di segnali?,"Divieto (rosso/cerchio), Avvertimento (giallo/triangolo), Prescrizione (blu/cerchio), Emergenza/Salvataggio (verde), Antincendio (rosso), Informazione.",fileciteturn3file0
+51,Azienda,Segnaletica,Dove vanno posizionati i cartelli di sicurezza?,"In luoghi visibili/illuminati: ingresso aree a rischio, vicino ostacoli/oggetti pericolosi o direttamente sulle attrezzature.",fileciteturn3file0
+52,Lavoratore,Segnaletica,Quando un cartello va rimosso?,Quando cessa il rischio: mantenerlo creerebbe confusione.,fileciteturn3file0
+53,Azienda,Segnaletica,Quali requisiti per segnali luminosi e acustici?,Luce: intensa ma non abbagliante. Suono: sopra il rumore di fondo ma senza arrecare danno; segnale distinguibile.,fileciteturn3file0
+54,Lavoratore,Segnaletica,Chi esegue i segnali gestuali e con quali regole?,"Il segnalatore, con visibilità completa; interrompe se non controlla la manovra. Può usare bracciali/palette e deve indossare i DPI.",fileciteturn3file0
+55,Lavoratore,MMC – Tecnica,Qual è la tecnica corretta per sollevare un carico?,"Schiena eretta, piegare le gambe, afferrare con entrambe le mani, sollevare gradualmente e tenere il carico vicino al corpo.",fileciteturn3file0
+56,Lavoratore,MMC – Da evitare,Quali movimenti sono da evitare?,"Torsioni del tronco, schiena piegata a lungo, carichi lontani dal corpo o sopra le spalle.",fileciteturn3file0
+57,Azienda,MMC – Ausili,Quali ausili usare secondo il peso?,2 ruote: 50–100 kg; 4 ruote: 100–250 kg; transpallet manuale: 250–500 kg.,fileciteturn3file0
+58,Azienda,MMC – Organizzazione,Come gestire carichi eccessivi non divisibili?,"Sollevare in due persone, mantenere schiena eretta e presa con palmi delle mani.",fileciteturn3file0
+59,Azienda,MMC – NIOSH,Cos’è il Peso Limite Raccomandato (PLR)?,"È il peso che quasi tutti i lavoratori sani possono sollevare per 8 ore in sicurezza, calcolato con fattori moltiplicativi.",fileciteturn3file0
+60,Lavoratore,MMC – NIOSH,Quali sono i fattori che riducono il PLR?,"Mani troppo in basso/alto, grande dislocazione verticale, distanza orizzontale dal corpo, rotazione del tronco, presa scarsa, alta frequenza/durata.",fileciteturn3file0
+61,Lavoratore,MMC – NIOSH,Che cosa indica l’Indice di Sollevamento (LI)?,LI = Peso effettivo / PLR: se >1 il rischio è alto e servono interventi immediati.,fileciteturn3file0
+62,Azienda,MMC – NIOSH,Quali sono le costanti di peso di riferimento?,Uomini 18–45: 25 kg; <18 o >45: 20 kg. Donne 18–45: 20 kg (o 15 kg da EN 1005-2); <18 o >45: 15 kg.,fileciteturn3file0
+63,Lavoratore,Movimenti ripetitivi,Perché i movimenti ripetitivi sono rischiosi?,"Azioni brevi ripetute per anni possono causare patologie agli arti superiori (spalle, gomiti, polsi, mani).",fileciteturn3file0
+64,Azienda,Movimenti ripetitivi,Quali fattori aumentano il rischio?,"Alta ripetitività, uso forza >2 ore/turno, prese di forza/precisione, posture incongrue e impatti ripetuti.",fileciteturn3file0
+65,Lavoratore,Posture,Quando una postura incongrua diventa significativa?,Se mantenuta oltre 1 ora continuativa o oltre 2 ore complessive/turno.,fileciteturn3file0
+66,Azienda,Impatti ripetuti,Quando gli impatti manuali diventano critici?,Se >10 colpi/ora per almeno 2 ore complessive/turno.,fileciteturn3file0
+67,Lavoratore,VDT – Rischi,Quali disturbi sono associati all’uso prolungato del VDT?,"Affaticamento muscolare (collo/spalle/schiena), lombalgie, mialgie, cefalea/emicrania e affaticamento visivo.",fileciteturn3file0
+68,Azienda,VDT – Allestimento,Come deve essere lo schermo rispetto agli occhi?,"Bordo superiore allineato allo sguardo, posizione che eviti riflessi; luminosità/contrasto regolati.",fileciteturn3file0
+69,Lavoratore,VDT – Buone pratiche,Ogni quanto fare pause al VDT?,"15 minuti ogni 2 ore di lavoro continuativo, con esercizi posturali e alternanza di attività.",fileciteturn3file0
+70,Azienda,VDT – Sorveglianza,Quando scatta la sorveglianza sanitaria per VDT?,Per esposizione al VDT oltre 20 ore settimanali.,fileciteturn3file0
+71,Azienda,VDT – Ergonomia,Quali dimensioni indicative della postazione?,Altezza tavolo 72 cm; spazio gambe: ≥28 cm in altezza e ≥36 cm in profondità; sedia regolabile e stabile.,fileciteturn3file0
+72,Lavoratore,Rumore – Effetti,Quali effetti può avere il rumore sulla salute?,"Ipoacusia, acufeni, vertigini, affaticamento, mal di testa, disturbi del sonno, stress e possibili effetti cardiovascolari.",fileciteturn3file0
+73,Azienda,Rumore – Valutazione,Ogni quanto ripetere le misurazioni del rischio rumore?,In genere ogni 4 anni o quando cambiano condizioni/organizzazione.,fileciteturn3file0
+74,Azienda,Rumore – Limiti,"Quali sono i valori di azione/limite Lex,8h?","Valore inferiore 80 dB(A), superiore 85 dB(A), limite 87 dB(A); picco 135/137/140 dB(C).",fileciteturn3file0
+75,Lavoratore,Rumore – DPI,Che obiettivo devono raggiungere i DPI uditivi?,Ridurre l’esposizione a valori ≤ 80 dB(A); sostituirli se danneggiati o inefficaci.,fileciteturn3file0
+76,Azienda,Rumore – Formazione,Quando informare/formare sul rumore?,Obbligatorio per chi è esposto a rumore ≥ 80 dB(A); addestramento specifico DPI se ≥ 85 dB(A).,fileciteturn3file0
+77,Azienda,Aggiornamento formazione,Possiamo concentrare le 6 ore in un solo giorno?,"Sì, è consentito svolgere tutte le ore in un’unica sessione con verifica secondo programma.",fileciteturn3file0
+78,Azienda,Aggiornamento formazione,Possiamo concentrare le 6 ore in un solo giorno?,"Sì, è consentito svolgere tutte le ore in un’unica sessione con verifica secondo programma.",fileciteturn3file0
+79,Azienda,Aggiornamento formazione,Possiamo concentrare le 6 ore in un solo giorno?,"Sì, è consentito svolgere tutte le ore in un’unica sessione con verifica secondo programma.",fileciteturn3file0
+80,Azienda,Aggiornamento formazione,Possiamo concentrare le 6 ore in un solo giorno?,"Sì, è consentito svolgere tutte le ore in un’unica sessione con verifica secondo programma.",fileciteturn3file0
+81,Azienda,Aggiornamento formazione,Possiamo concentrare le 6 ore in un solo giorno?,"Sì, è consentito svolgere tutte le ore in un’unica sessione con verifica secondo programma.",fileciteturn3file0
+82,Azienda,Aggiornamento formazione,Possiamo concentrare le 6 ore in un solo giorno?,"Sì, è consentito svolgere tutte le ore in un’unica sessione con verifica secondo programma.",fileciteturn3file0
+83,Lavoratore,Aggiornamento formazione,L’aggiornamento riguarda anche i rischi specifici del mio reparto?,Sì: l’aggiornamento specifico è mirato ai rischi tipici della tua mansione e attività.,fileciteturn3file0
+84,Lavoratore,Aggiornamento formazione,L’aggiornamento riguarda anche i rischi specifici del mio reparto?,Sì: l’aggiornamento specifico è mirato ai rischi tipici della tua mansione e attività.,fileciteturn3file0
+85,Lavoratore,Aggiornamento formazione,L’aggiornamento riguarda anche i rischi specifici del mio reparto?,Sì: l’aggiornamento specifico è mirato ai rischi tipici della tua mansione e attività.,fileciteturn3file0
+86,Lavoratore,Aggiornamento formazione,L’aggiornamento riguarda anche i rischi specifici del mio reparto?,Sì: l’aggiornamento specifico è mirato ai rischi tipici della tua mansione e attività.,fileciteturn3file0
+87,Lavoratore,Aggiornamento formazione,L’aggiornamento riguarda anche i rischi specifici del mio reparto?,Sì: l’aggiornamento specifico è mirato ai rischi tipici della tua mansione e attività.,fileciteturn3file0
+88,Lavoratore,Aggiornamento formazione,L’aggiornamento riguarda anche i rischi specifici del mio reparto?,Sì: l’aggiornamento specifico è mirato ai rischi tipici della tua mansione e attività.,fileciteturn3file0
+89,Azienda,Aggiornamento formazione,Come documentare la partecipazione a seminari o convegni?,"Con attestati che riportano contenuti, ore e verifica dell’apprendimento.",fileciteturn3file0
+90,Azienda,Aggiornamento formazione,Come documentare la partecipazione a seminari o convegni?,"Con attestati che riportano contenuti, ore e verifica dell’apprendimento.",fileciteturn3file0
+91,Azienda,Aggiornamento formazione,Come documentare la partecipazione a seminari o convegni?,"Con attestati che riportano contenuti, ore e verifica dell’apprendimento.",fileciteturn3file0
+92,Azienda,Aggiornamento formazione,Come documentare la partecipazione a seminari o convegni?,"Con attestati che riportano contenuti, ore e verifica dell’apprendimento.",fileciteturn3file0
+93,Azienda,Aggiornamento formazione,Come documentare la partecipazione a seminari o convegni?,"Con attestati che riportano contenuti, ore e verifica dell’apprendimento.",fileciteturn3file0
+94,Azienda,Aggiornamento formazione,Come documentare la partecipazione a seminari o convegni?,"Con attestati che riportano contenuti, ore e verifica dell’apprendimento.",fileciteturn3file0
+95,Lavoratore,Aggiornamento formazione,Perché è importante aggiornarsi?,Per restare allineati a norme e pericoli specifici e per prevenire infortuni.,fileciteturn3file0
+96,Lavoratore,Aggiornamento formazione,Perché è importante aggiornarsi?,Per restare allineati a norme e pericoli specifici e per prevenire infortuni.,fileciteturn3file0
+97,Lavoratore,Aggiornamento formazione,Perché è importante aggiornarsi?,Per restare allineati a norme e pericoli specifici e per prevenire infortuni.,fileciteturn3file0
+98,Lavoratore,Aggiornamento formazione,Perché è importante aggiornarsi?,Per restare allineati a norme e pericoli specifici e per prevenire infortuni.,fileciteturn3file0
+99,Lavoratore,Aggiornamento formazione,Perché è importante aggiornarsi?,Per restare allineati a norme e pericoli specifici e per prevenire infortuni.,fileciteturn3file0
+100,Lavoratore,Aggiornamento formazione,Perché è importante aggiornarsi?,Per restare allineati a norme e pericoli specifici e per prevenire infortuni.,fileciteturn3file0
+101,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+102,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+103,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+104,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+105,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+106,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+107,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+108,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+109,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+110,Lavoratore,Scale portatili,Posso trasportare oggetti in mano mentre salgo?,No: usa una borsa porta-attrezzi e mantieni entrambe le mani libere.,fileciteturn3file0
+111,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+112,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+113,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+114,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+115,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+116,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+117,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+118,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+119,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+120,Azienda,Lavori in quota,Quando predisporre ancoraggi per scale?,Sempre quando esiste rischio di scivolamento/ribaltamento o servono entrambe le mani.,fileciteturn3file0
+121,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+122,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+123,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+124,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+125,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+126,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+127,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+128,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+129,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+130,Lavoratore,DPI,Quando sostituire un DPI?,"Se danneggiato, scaduto o non più efficace.",fileciteturn3file0
+131,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+132,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+133,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+134,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+135,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+136,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+137,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+138,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+139,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+140,Azienda,DPI – Gestione,Quali dati deve contenere la Nota Informativa del fabbricante?,"Identificazione del DPI, istruzioni d’uso, manutenzione, limiti d’impiego e durata in relazione all’esposizione.",fileciteturn3file0
+141,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+142,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+143,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+144,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+145,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+146,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+147,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+148,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+149,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+150,Azienda,DPI – Marcatura,Dove apporre la marcatura CE se il DPI è troppo piccolo?,"Sulla confezione del prodotto, mantenendo leggibilità e indelebilità.",fileciteturn3file0
+151,Lavoratore,Segnaletica,Come riconosco un segnale di divieto?,Cerchio rosso con simbolo nero barrato (es. vietato fumare).,fileciteturn3file0
+152,Lavoratore,Segnaletica,Come riconosco un segnale di divieto?,Cerchio rosso con simbolo nero barrato (es. vietato fumare).,fileciteturn3file0
+153,Lavoratore,Segnaletica,Come riconosco un segnale di divieto?,Cerchio rosso con simbolo nero barrato (es. vietato fumare).,fileciteturn3file0
+154,Lavoratore,Segnaletica,Come riconosco un segnale di divieto?,Cerchio rosso con simbolo nero barrato (es. vietato fumare).,fileciteturn3file0
+155,Lavoratore,Segnaletica,Come riconosco un segnale di divieto?,Cerchio rosso con simbolo nero barrato (es. vietato fumare).,fileciteturn3file0
+156,Lavoratore,Segnaletica,Come riconosco un segnale di divieto?,Cerchio rosso con simbolo nero barrato (es. vietato fumare).,fileciteturn3file0
+157,Lavoratore,Segnaletica,Come riconosco un segnale di avvertimento?,Triangolo giallo con bordo nero e simbolo nero (es. rischio scivolamento).,fileciteturn3file0
+158,Lavoratore,Segnaletica,Come riconosco un segnale di avvertimento?,Triangolo giallo con bordo nero e simbolo nero (es. rischio scivolamento).,fileciteturn3file0
+159,Lavoratore,Segnaletica,Come riconosco un segnale di avvertimento?,Triangolo giallo con bordo nero e simbolo nero (es. rischio scivolamento).,fileciteturn3file0
+160,Lavoratore,Segnaletica,Come riconosco un segnale di avvertimento?,Triangolo giallo con bordo nero e simbolo nero (es. rischio scivolamento).,fileciteturn3file0
+161,Lavoratore,Segnaletica,Come riconosco un segnale di avvertimento?,Triangolo giallo con bordo nero e simbolo nero (es. rischio scivolamento).,fileciteturn3file0
+162,Lavoratore,Segnaletica,Come riconosco un segnale di avvertimento?,Triangolo giallo con bordo nero e simbolo nero (es. rischio scivolamento).,fileciteturn3file0
+163,Lavoratore,Segnaletica,Come riconosco un segnale di prescrizione?,Cerchio azzurro con simbolo bianco (es. obbligo casco/guanti).,fileciteturn3file0
+164,Lavoratore,Segnaletica,Come riconosco un segnale di prescrizione?,Cerchio azzurro con simbolo bianco (es. obbligo casco/guanti).,fileciteturn3file0
+165,Lavoratore,Segnaletica,Come riconosco un segnale di prescrizione?,Cerchio azzurro con simbolo bianco (es. obbligo casco/guanti).,fileciteturn3file0
+166,Lavoratore,Segnaletica,Come riconosco un segnale di prescrizione?,Cerchio azzurro con simbolo bianco (es. obbligo casco/guanti).,fileciteturn3file0
+167,Lavoratore,Segnaletica,Come riconosco un segnale di prescrizione?,Cerchio azzurro con simbolo bianco (es. obbligo casco/guanti).,fileciteturn3file0
+168,Lavoratore,Segnaletica,Come riconosco un segnale di prescrizione?,Cerchio azzurro con simbolo bianco (es. obbligo casco/guanti).,fileciteturn3file0
+169,Lavoratore,Segnaletica,Come riconosco un segnale di emergenza/salvataggio?,Quadrato/rettangolo verde con simbolo bianco (es. uscita di emergenza).,fileciteturn3file0
+170,Lavoratore,Segnaletica,Come riconosco un segnale di emergenza/salvataggio?,Quadrato/rettangolo verde con simbolo bianco (es. uscita di emergenza).,fileciteturn3file0
+171,Lavoratore,Segnaletica,Come riconosco un segnale di emergenza/salvataggio?,Quadrato/rettangolo verde con simbolo bianco (es. uscita di emergenza).,fileciteturn3file0
+172,Lavoratore,Segnaletica,Come riconosco un segnale di emergenza/salvataggio?,Quadrato/rettangolo verde con simbolo bianco (es. uscita di emergenza).,fileciteturn3file0
+173,Lavoratore,Segnaletica,Come riconosco un segnale di emergenza/salvataggio?,Quadrato/rettangolo verde con simbolo bianco (es. uscita di emergenza).,fileciteturn3file0
+174,Lavoratore,Segnaletica,Come riconosco un segnale di emergenza/salvataggio?,Quadrato/rettangolo verde con simbolo bianco (es. uscita di emergenza).,fileciteturn3file0
+175,Lavoratore,Segnaletica,Come riconosco un segnale antincendio?,Quadrato/rettangolo rosso con simbolo bianco (es. estintore).,fileciteturn3file0
+176,Lavoratore,Segnaletica,Come riconosco un segnale antincendio?,Quadrato/rettangolo rosso con simbolo bianco (es. estintore).,fileciteturn3file0
+177,Lavoratore,Segnaletica,Come riconosco un segnale antincendio?,Quadrato/rettangolo rosso con simbolo bianco (es. estintore).,fileciteturn3file0
+178,Lavoratore,Segnaletica,Come riconosco un segnale antincendio?,Quadrato/rettangolo rosso con simbolo bianco (es. estintore).,fileciteturn3file0
+179,Lavoratore,Segnaletica,Come riconosco un segnale antincendio?,Quadrato/rettangolo rosso con simbolo bianco (es. estintore).,fileciteturn3file0
+180,Lavoratore,Segnaletica,Come riconosco un segnale antincendio?,Quadrato/rettangolo rosso con simbolo bianco (es. estintore).,fileciteturn3file0
+181,Azienda,Segnaletica,Quali requisiti devono avere i cartelli?,"Materiali resistenti, simboli/pittogrammi semplici, testi brevi e chiari; rimozione quando cessa il rischio.",fileciteturn3file0
+182,Azienda,Segnaletica,Quali requisiti devono avere i cartelli?,"Materiali resistenti, simboli/pittogrammi semplici, testi brevi e chiari; rimozione quando cessa il rischio.",fileciteturn3file0
+183,Azienda,Segnaletica,Quali requisiti devono avere i cartelli?,"Materiali resistenti, simboli/pittogrammi semplici, testi brevi e chiari; rimozione quando cessa il rischio.",fileciteturn3file0
+184,Azienda,Segnaletica,Quali requisiti devono avere i cartelli?,"Materiali resistenti, simboli/pittogrammi semplici, testi brevi e chiari; rimozione quando cessa il rischio.",fileciteturn3file0
+185,Azienda,Segnaletica,Quali requisiti devono avere i cartelli?,"Materiali resistenti, simboli/pittogrammi semplici, testi brevi e chiari; rimozione quando cessa il rischio.",fileciteturn3file0
+186,Azienda,Segnaletica,Quali requisiti devono avere i cartelli?,"Materiali resistenti, simboli/pittogrammi semplici, testi brevi e chiari; rimozione quando cessa il rischio.",fileciteturn3file0
+187,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+188,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+189,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+190,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+191,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+192,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+193,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+194,Lavoratore,MMC – Tecnica,Dove posizionare i piedi durante il sollevamento?,"A circa 20 cm l’uno dall’altro, uno leggermente avanzato per stabilità.",fileciteturn3file0
+195,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+196,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+197,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+198,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+199,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+200,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+201,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+202,Azienda,MMC – Ambiente,Quali condizioni ambientali aumentano il rischio?,"Spazi ristretti, pavimenti scivolosi/dislivelli, microclima inadeguato.",fileciteturn3file0
+203,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+204,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+205,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+206,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+207,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+208,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+209,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+210,Azienda,MMC – Fattori individuali,Quali fattori personali considerare?,"Età, sesso, corporatura, patologie, idoneità, formazione e attrezzature/indumenti adeguati.",fileciteturn3file0
+211,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+212,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+213,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+214,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+215,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+216,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+217,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+218,Lavoratore,VDT – Postazione,Come regolare tastiera e mouse?,Sul medesimo piano con polsi/avambracci appoggiati; gomiti a 90°–100°.,fileciteturn3file0
+219,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+220,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+221,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+222,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+223,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+224,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+225,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+226,Azienda,VDT – Illuminazione,Come evitare riflessi sullo schermo?,Posizionare lo schermo perpendicolare alle finestre e usare superfici opache.,fileciteturn3file0
+227,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+228,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+229,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+230,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+231,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+232,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+233,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+234,Lavoratore,Rumore – DPI,Quando devo indossare le cuffie/tappi?,Quando l’esposizione può superare i valori d’azione o per indicazione aziendale.,fileciteturn3file0
+235,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+236,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+237,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+238,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+239,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+240,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+241,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+242,Azienda,Rumore – Prevenzione,Qual è l’ordine delle misure di prevenzione?,"Prima riduzione alla fonte/ingegneria, poi organizzazione, infine DPI uditivi.",fileciteturn3file0
+243,Lavoratore,Scenario – Aggiornamento,Ti propongono un convegno di 2 ore sulla sicurezza: vale come aggiornamento?,"Sì, entro un terzo del monte ore e con verifica finale.",fileciteturn3file0
+244,Lavoratore,Scenario – Aggiornamento,Ti propongono un convegno di 2 ore sulla sicurezza: vale come aggiornamento?,"Sì, entro un terzo del monte ore e con verifica finale.",fileciteturn3file0
+245,Lavoratore,Scenario – Aggiornamento,Ti propongono un convegno di 2 ore sulla sicurezza: vale come aggiornamento?,"Sì, entro un terzo del monte ore e con verifica finale.",fileciteturn3file0
+246,Lavoratore,Scenario – Aggiornamento,Ti propongono un convegno di 2 ore sulla sicurezza: vale come aggiornamento?,"Sì, entro un terzo del monte ore e con verifica finale.",fileciteturn3file0
+247,Lavoratore,Scenario – Aggiornamento,Ti propongono un convegno di 2 ore sulla sicurezza: vale come aggiornamento?,"Sì, entro un terzo del monte ore e con verifica finale.",fileciteturn3file0
+248,Lavoratore,Scenario – Aggiornamento,Ti propongono un convegno di 2 ore sulla sicurezza: vale come aggiornamento?,"Sì, entro un terzo del monte ore e con verifica finale.",fileciteturn3file0
+249,Azienda,Scenario – Scale,Una scala appoggia su terreno irregolare: che fai?,"Metti in sicurezza la base, scegli appoggio regolare o usa altra attrezzatura idonea.",fileciteturn3file0
+250,Azienda,Scenario – Scale,Una scala appoggia su terreno irregolare: che fai?,"Metti in sicurezza la base, scegli appoggio regolare o usa altra attrezzatura idonea.",fileciteturn3file0
+251,Azienda,Scenario – Scale,Una scala appoggia su terreno irregolare: che fai?,"Metti in sicurezza la base, scegli appoggio regolare o usa altra attrezzatura idonea.",fileciteturn3file0
+252,Azienda,Scenario – Scale,Una scala appoggia su terreno irregolare: che fai?,"Metti in sicurezza la base, scegli appoggio regolare o usa altra attrezzatura idonea.",fileciteturn3file0
+253,Azienda,Scenario – Scale,Una scala appoggia su terreno irregolare: che fai?,"Metti in sicurezza la base, scegli appoggio regolare o usa altra attrezzatura idonea.",fileciteturn3file0
+254,Azienda,Scenario – Scale,Una scala appoggia su terreno irregolare: che fai?,"Metti in sicurezza la base, scegli appoggio regolare o usa altra attrezzatura idonea.",fileciteturn3file0
+255,Lavoratore,Scenario – DPI,L’imbracatura ha etichetta illeggibile: cosa fai?,Sospendi l’uso e richiedi sostituzione/controllo.,fileciteturn3file0
+256,Lavoratore,Scenario – DPI,L’imbracatura ha etichetta illeggibile: cosa fai?,Sospendi l’uso e richiedi sostituzione/controllo.,fileciteturn3file0
+257,Lavoratore,Scenario – DPI,L’imbracatura ha etichetta illeggibile: cosa fai?,Sospendi l’uso e richiedi sostituzione/controllo.,fileciteturn3file0
+258,Lavoratore,Scenario – DPI,L’imbracatura ha etichetta illeggibile: cosa fai?,Sospendi l’uso e richiedi sostituzione/controllo.,fileciteturn3file0
+259,Lavoratore,Scenario – DPI,L’imbracatura ha etichetta illeggibile: cosa fai?,Sospendi l’uso e richiedi sostituzione/controllo.,fileciteturn3file0
+260,Lavoratore,Scenario – DPI,L’imbracatura ha etichetta illeggibile: cosa fai?,Sospendi l’uso e richiedi sostituzione/controllo.,fileciteturn3file0
+261,Azienda,Scenario – VDT,Un addetto VDT supera 20 ore/settimana: cosa attivare?,Sorveglianza sanitaria e verifiche ergonomiche della postazione.,fileciteturn3file0
+262,Azienda,Scenario – VDT,Un addetto VDT supera 20 ore/settimana: cosa attivare?,Sorveglianza sanitaria e verifiche ergonomiche della postazione.,fileciteturn3file0
+263,Azienda,Scenario – VDT,Un addetto VDT supera 20 ore/settimana: cosa attivare?,Sorveglianza sanitaria e verifiche ergonomiche della postazione.,fileciteturn3file0
+264,Azienda,Scenario – VDT,Un addetto VDT supera 20 ore/settimana: cosa attivare?,Sorveglianza sanitaria e verifiche ergonomiche della postazione.,fileciteturn3file0
+265,Azienda,Scenario – VDT,Un addetto VDT supera 20 ore/settimana: cosa attivare?,Sorveglianza sanitaria e verifiche ergonomiche della postazione.,fileciteturn3file0
+266,Azienda,Scenario – VDT,Un addetto VDT supera 20 ore/settimana: cosa attivare?,Sorveglianza sanitaria e verifiche ergonomiche della postazione.,fileciteturn3file0
+267,Lavoratore,Scenario – Rumore,Avverti acufeni a fine turno: come ti comporti?,Segnala al preposto/medico competente e usa correttamente i DPI uditivi.,fileciteturn3file0
+268,Lavoratore,Scenario – Rumore,Avverti acufeni a fine turno: come ti comporti?,Segnala al preposto/medico competente e usa correttamente i DPI uditivi.,fileciteturn3file0
+269,Lavoratore,Scenario – Rumore,Avverti acufeni a fine turno: come ti comporti?,Segnala al preposto/medico competente e usa correttamente i DPI uditivi.,fileciteturn3file0
+270,Lavoratore,Scenario – Rumore,Avverti acufeni a fine turno: come ti comporti?,Segnala al preposto/medico competente e usa correttamente i DPI uditivi.,fileciteturn3file0
+271,Lavoratore,Scenario – Rumore,Avverti acufeni a fine turno: come ti comporti?,Segnala al preposto/medico competente e usa correttamente i DPI uditivi.,fileciteturn3file0
+272,Lavoratore,Scenario – Rumore,Avverti acufeni a fine turno: come ti comporti?,Segnala al preposto/medico competente e usa correttamente i DPI uditivi.,fileciteturn3file0
+273,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+274,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+275,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+276,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+277,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+278,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+279,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+280,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+281,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+282,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+283,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+284,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+285,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+286,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+287,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+288,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+289,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+290,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+291,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+292,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+293,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+294,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+295,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+296,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+297,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+298,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+299,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+300,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+301,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+302,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+303,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+304,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+305,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+306,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+307,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+308,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+309,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+310,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+311,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+312,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+313,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+314,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+315,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+316,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+317,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+318,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+319,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+320,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+321,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+322,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+323,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+324,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+325,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+326,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+327,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+328,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+329,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+330,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+331,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+332,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+333,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+334,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+335,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+336,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+337,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+338,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+339,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+340,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+341,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+342,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+343,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+344,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+345,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+346,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+347,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+348,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+349,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+350,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+351,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+352,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+353,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+354,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+355,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+356,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+357,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+358,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+359,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+360,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+361,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+362,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+363,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+364,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+365,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+366,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+367,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+368,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+369,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+370,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+371,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+372,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+373,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+374,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+375,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+376,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+377,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+378,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+379,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+380,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+381,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+382,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+383,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+384,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+385,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+386,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+387,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+388,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+389,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+390,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+391,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+392,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+393,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+394,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+395,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+396,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+397,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+398,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+399,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+400,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+401,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+402,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+403,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+404,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+405,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+406,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+407,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+408,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+409,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+410,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+411,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+412,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+413,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+414,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+415,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+416,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+417,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+418,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+419,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+420,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+421,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+422,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+423,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+424,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+425,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+426,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+427,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+428,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+429,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+430,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+431,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+432,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+433,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+434,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+435,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+436,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+437,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+438,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+439,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+440,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+441,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+442,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+443,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+444,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+445,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+446,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+447,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+448,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+449,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+450,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+451,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+452,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+453,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+454,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+455,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+456,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+457,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+458,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+459,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+460,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+461,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+462,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+463,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+464,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+465,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+466,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+467,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+468,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+469,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+470,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+471,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+472,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+473,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+474,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+475,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+476,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+477,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+478,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+479,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+480,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+481,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+482,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+483,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+484,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+485,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+486,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+487,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+488,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+489,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+490,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+491,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+492,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+493,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+494,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+495,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+496,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+497,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+498,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+499,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+500,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+501,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+502,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+503,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+504,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+505,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+506,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+507,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+508,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+509,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+510,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+511,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+512,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+513,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+514,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+515,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+516,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+517,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+518,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+519,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+520,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+521,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+522,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+523,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+524,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+525,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+526,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+527,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+528,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+529,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+530,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+531,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+532,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+533,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+534,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+535,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+536,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+537,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+538,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+539,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+540,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+541,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+542,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+543,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+544,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+545,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+546,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+547,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+548,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+549,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+550,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+551,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+552,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+553,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+554,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+555,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+556,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+557,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+558,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+559,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+560,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+561,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+562,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+563,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+564,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+565,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+566,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+567,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+568,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+569,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+570,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+571,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+572,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+573,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+574,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+575,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+576,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+577,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+578,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+579,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+580,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+581,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+582,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+583,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+584,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+585,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+586,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+587,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+588,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+589,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+590,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+591,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+592,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+593,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+594,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+595,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+596,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+597,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+598,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+599,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+600,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+601,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+602,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+603,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+604,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+605,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+606,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+607,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+608,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+609,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+610,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+611,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+612,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+613,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+614,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+615,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+616,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+617,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+618,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+619,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+620,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+621,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+622,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+623,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+624,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+625,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+626,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+627,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+628,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+629,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+630,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+631,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+632,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+633,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+634,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+635,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+636,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+637,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+638,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+639,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+640,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+641,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+642,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+643,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+644,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+645,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+646,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+647,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+648,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+649,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+650,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+651,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+652,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+653,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+654,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+655,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+656,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+657,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+658,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+659,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+660,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+661,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+662,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+663,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+664,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+665,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+666,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+667,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+668,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+669,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+670,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+671,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+672,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+673,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+674,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+675,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+676,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+677,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+678,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+679,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+680,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+681,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+682,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+683,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+684,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+685,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+686,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+687,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+688,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+689,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+690,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+691,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+692,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+693,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+694,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+695,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+696,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+697,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+698,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+699,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+700,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+701,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+702,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+703,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+704,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+705,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+706,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+707,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+708,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+709,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+710,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+711,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+712,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+713,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+714,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+715,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+716,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+717,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+718,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+719,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+720,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+721,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+722,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+723,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+724,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+725,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+726,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+727,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+728,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+729,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+730,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+731,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+732,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+733,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+734,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+735,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+736,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+737,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+738,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+739,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+740,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+741,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+742,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+743,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+744,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+745,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+746,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+747,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+748,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+749,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+750,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+751,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+752,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+753,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+754,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+755,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+756,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+757,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+758,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+759,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+760,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+761,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+762,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+763,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+764,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+765,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+766,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+767,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+768,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+769,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+770,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+771,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+772,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+773,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+774,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+775,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+776,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+777,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+778,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+779,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+780,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+781,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+782,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+783,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+784,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+785,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+786,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+787,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+788,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+789,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+790,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+791,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+792,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+793,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+794,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+795,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+796,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+797,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+798,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+799,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+800,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+801,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+802,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+803,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+804,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+805,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+806,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+807,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+808,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+809,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+810,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+811,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+812,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+813,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+814,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+815,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+816,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+817,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+818,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+819,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+820,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+821,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+822,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+823,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+824,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+825,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+826,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+827,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+828,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+829,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+830,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+831,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+832,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+833,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+834,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+835,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+836,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+837,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+838,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+839,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+840,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+841,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+842,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+843,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+844,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+845,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0
+846,Azienda,Attrezzature di lavoro,Chi può effettuare la manutenzione di attrezzature a rischio elevato?,Solo personale qualificato e specificamente incaricato.,fileciteturn3file0
+847,Lavoratore,MMC – Tecnica,Perché il carico deve stare vicino al corpo?,Per ridurre il momento torcente sulla colonna e lo sforzo muscolare.,fileciteturn3file0
+848,Lavoratore,Aggiornamento formazione,L’aggiornamento specifico riguarda rischi e procedure del mio reparto?,Sì: è mirato e settoriale sui rischi della mansione.,fileciteturn3file0
+849,Azienda,Segnaletica,Come garantire che i segnali siano compresi da tutti?,Formazione/induzione e uso di pittogrammi standard facilmente interpretabili.,fileciteturn3file0
+850,Lavoratore,DPI,Come verificare la compatibilità di più DPI indossati insieme?,Devono essere compatibili e mantenere efficacia simultanea secondo le istruzioni.,fileciteturn3file0

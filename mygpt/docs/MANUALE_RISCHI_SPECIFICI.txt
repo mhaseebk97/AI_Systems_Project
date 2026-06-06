@@ -1,0 +1,2244 @@
+Manuale sui RISCHI SPECIFICI 
+I RISCHI NEGLI AMBIENTI DI LAVORO 
+I rischi lavorativi presenti negli ambienti di lavoro, in conseguenza dello svolgimento delle 
+attività lavorative, possono essere divisi in tre grandi categorie. 
+Rischi per la SICUREZZA dei lavoratori 
+Rischi di natura infortunistica, responsabili del potenziale verificarsi di incidenti o infortuni, 
+ovvero di danni o menomazioni fisiche (più o meno gravi) subite dalle persone addette alle varie 
+attività lavorative, in conseguenza di un impatto fisico-traumatico di diversa natura (meccanica, 
+elettrica, chimica, termica, ecc.). 
+Le cause di tali rischi sono da ricercare, almeno nella maggioranza dei casi, in un non idoneo 
+assetto delle caratteristiche di sicurezza inerenti: 
+ l’ambiente di lavoro; 
+ le macchine e/o le apparecchiature utilizzate; 
+ le modalità operative; 
+ l’organizzazione del lavoro, ecc. 
+Possono derivare da: 
+ carenze strutturali; 
+ carenze di sicurezza negli impianti elettrici e tecnici; 
+ incendio e/o esplosione; 
+ vie di fuga/uscite di emergenza. 
+Rischi per la SALUTE dei lavoratori 
+Rischi igienico-ambientali, responsabili della potenziale compromissione dell’equilibrio 
+biologico del personale addetto ad operazioni o a lavorazioni che comportano l’emissione 
+nell’ambiente di fattori di rischio di natura chimica, fisica e biologica, con seguente esposizione 
+del personale addetto, i cui effetti non sono immediatamente visibili. 
+Collana PREVENZIONE E PROTEZIONE 
+Collana PREVENZIONE E PROTEZIONE 
+Le cause dei rischi qui descritti derivano principalmente dall’insorgere di condizioni igienico
+ambientali non idonee, spesso dovute alla presenza di fattori ambientali di rischio generati 
+durante lo svolgimento delle lavorazioni. 
+Questi fattori possono essere collegati: 
+ alle caratteristiche del processo di lavoro (modalità di esecuzione, tempi, sequenze 
+operative); 
+ alle attrezzature di lavoro utilizzate (macchine, strumenti, impianti); 
+ alle modalità operative adottate dal personale. 
+Tali fattori di rischio non sempre producono danni immediati. Spesso, infatti, causano malattie 
+professionali che si manifestano solo dopo una lunga e continuativa esposizione. 
+Esempio: lavorare per molti anni in un ambiente eccessivamente rumoroso senza adeguate 
+protezioni acustiche può determinare danni permanenti all’udito. 
+Rischi Trasversali o Organizzativi 
+Questa categoria di rischi è legata al complesso rapporto tra il lavoratore e l’organizzazione 
+del lavoro in cui egli è inserito. 
+Il rapporto è immerso in un quadro complessivo di compatibilità e interazioni che non è solo di 
+tipo ergonomico (cioè relativo alla postura, agli strumenti, e all’adattamento fisico), ma 
+comprende anche aspetti psicologici (stress, carico mentale, relazioni interpersonali) e 
+organizzativi (turni, distribuzione dei compiti, gestione delle risorse). 
+La coerenza di questo quadro organizzativo può essere un fattore determinante nella 
+prevenzione o nell’insorgenza di rischi. 
+Analizzare questo quadro significa anche individuare i possibili rischi trasversali, ossia quei 
+rischi che non riguardano esclusivamente la sicurezza fisica o la salute biologica, ma che 
+possono incidere su entrambe. 
+Negli ultimi anni, una particolare attenzione è stata rivolta al cosiddetto “rischio stress da 
+lavoro correlato”. 
+Questo rischio è complesso da individuare perché: 
+ non produce danni immediatamente visibili; 
+ gli effetti possono accumularsi nel tempo; 
+ può manifestarsi con sintomi fisici (mal di testa, disturbi del sonno), psicologici (ansia, 
+depressione) e comportamentali (calo di produttività, assenteismo). 
+Descrizione dettagliata delle tipologie di rischio 
+1. Rischi per la sicurezza 
+Si riferiscono a tutti quei pericoli che possono compromettere l’incolumità fisica immediata del 
+lavoratore, come incidenti, lesioni o danni gravi. 
+Esempi: 
+ Uso dei luoghi di lavoro: strutture instabili, pavimenti scivolosi, scale non protette. 
+ Uso delle attrezzature di lavoro: macchinari privi di protezioni, utensili difettosi. 
+ Uso di energia elettrica: impianti elettrici non conformi, cavi danneggiati, sovraccarichi 
+di rete. 
+ Impiego di sostanze pericolose: manipolazione o stoccaggio di agenti chimici che, in 
+caso di contatto o inalazione, possono provocare danni fisici immediati (ustioni, 
+intossicazioni). 
+ Incendio o esplosione: rischio derivante da sostanze infiammabili, impianti di 
+combustione non sicuri, fughe di gas. 
+2. Rischi per la salute 
+Riguardano esposizioni o condizioni di lavoro che possono compromettere l’equilibrio biologico 
+e fisiologico del lavoratore, con effetti spesso a lungo termine. 
+Esempi: 
+ Impiego di sostanze pericolose: contatto o inalazione di agenti chimici nocivi che 
+possono causare avvelenamento, irritazioni, o malattie croniche. 
+ Agenti fisici: 
+o Rumore: esposizione a livelli sonori elevati e prolungati può portare a perdita 
+dell’udito. 
+o Vibrazioni: derivanti da utensili o macchinari, con rischio di danni articolari o 
+muscolari. 
+o Radiazioni ottiche artificiali: ad esempio, esposizione a laser o luci UV senza 
+protezioni adeguate. 
+o Campi elettromagnetici: esposizione prolungata che può interferire con il 
+sistema nervoso o dispositivi medici impiantabili. 
+ Agenti biologici: batteri, virus, muffe o altri microrganismi presenti in ambienti di lavoro 
+specifici (laboratori, ospedali, impianti di trattamento rifiuti). 
+3. Rischi trasversali o organizzativi 
+Questi rischi si collocano a cavallo tra sicurezza e salute, derivando da come il lavoro è 
+strutturato, gestito e percepito dal lavoratore. 
+Esempi: 
+ Organizzazione del lavoro: turni prolungati, carichi di lavoro eccessivi, mancanza di 
+pause adeguate. 
+ Fattori psicologici: stress, pressione lavorativa, conflitti interpersonali. 
+ Fattori ergonomici: 
+o Uso prolungato dei videoterminali, con rischio di affaticamento visivo e problemi 
+posturali. 
+o Movimentazione manuale dei carichi senza attrezzature di supporto, con rischio di 
+lesioni alla schiena. 
+ Condizioni di lavoro difficili: ambienti estremi (temperature elevate o molto basse), 
+scarsa illuminazione, spazi ristretti o insalubri. 
+Utilizzo dei Luoghi di Lavoro 
+(Manuale sui Rischi Specifici – Riferimento art. 62 D.Lgs. 81/2008 e s.m.i.) 
+1. Definizione di “Luogo di Lavoro” 
+Un luogo di lavoro è qualsiasi ambiente destinato ad ospitare postazioni lavorative situate: 
+ All’interno dell’azienda o dell’unità produttiva. 
+ All’esterno, in spazi di pertinenza dell’azienda o dell’unità produttiva, accessibili al 
+lavoratore nello svolgimento delle sue mansioni. 
+La definizione include anche: 
+ Locali tecnici, officine, magazzini, aree di carico/scarico. 
+ Ambienti visitati solo occasionalmente (ad esempio per manutenzione o controlli 
+tecnici). 
+ Spazi coperti o scoperti, permanenti o temporanei, purché connessi al lavoro. 
+2. Contesto visivo – Cosa mostra l’immagine 
+L’illustrazione rappresenta: 
+ Un reparto industriale con una linea di macchine utensili disposte in sequenza. 
+ Lavoratori concentrati su operazioni manuali e meccaniche. 
+ Un supervisore o tecnico in camice bianco che cammina lungo un corridoio laterale. 
+ Un gancio di sollevamento sospeso (parte di gru o carroponte), indicativo di 
+movimentazione carichi. 
+ Sfondo con cassoni e strutture di magazzino. 
+3. Significato combinato testo + immagine 
+L’insieme di definizione legale e scena illustrata chiarisce che il concetto di “luogo di lavoro” 
+non è astratto: comprende sia spazi amministrativi che ambienti operativi ad alto rischio, come 
+officine e reparti produttivi. 
+L’immagine evidenzia rischi reali che si possono trovare in questi luoghi: 
+ Interazione uomo-macchina. 
+ Movimentazione di carichi sospesi. 
+ Posture ripetitive e potenzialmente dannose. 
+ Rumore e vibrazioni tipici dell’industria. 
+ Possibili pericoli elettrici e meccanici. 
+4. Rischi principali individuabili in questa tipologia di luogo di lavoro 
+1. Meccanici: contatto con parti in movimento delle macchine utensili. 
+2. Da carichi sospesi: urto o caduta di oggetti movimentati da gru. 
+3. Ergonomici: flessione prolungata, lavoro statico, movimenti ripetitivi. 
+4. Fisici: rumore elevato, vibrazioni. 
+5. Elettrici: guasti, contatti diretti o indiretti. 
+6. Organizzativi: lavoro a catena, tempi ciclo, monotonia operativa. 
+5. Buone pratiche e misure preventive 
+ Macchine: ripari fissi e mobili, arresti di emergenza, procedure di lockout/tagout. 
+ Carichi sospesi: aree interdette, segnali acustici e visivi, verifica periodica delle 
+attrezzature di sollevamento. 
+ Ergonomia: piani di lavoro regolabili, pause programmate, rotazione mansioni. 
+ Agenti fisici: DPI per l’udito, guanti antivibrazione, monitoraggio periodico. 
+ Elettricità: impianti conformi, protezioni differenziali, ispezioni regolari. 
+ Organizzazione: gestione dei ritmi, formazione, piani di emergenza chiari. 
+6. Domande utili che un chatbot può rispondere su questa pagina 
+ Cos’è un “luogo di lavoro” ai sensi dell’art. 62 D.Lgs. 81/2008? 
+ Quali spazi rientrano nella definizione, anche se visitati raramente? 
+ Quali rischi sono rappresentati nella scena illustrata? 
+ Quali misure di prevenzione riducono i pericoli in ambienti simili? 
+ Perché la movimentazione di carichi sospesi richiede aree interdette? 
+I Rischi Principali 
+(Collana Prevenzione e Protezione) 
+1. Introduzione 
+Questa sezione elenca i principali rischi che possono verificarsi durante le attività lavorative in 
+ambienti aziendali, nei trasporti interni di materiali e nella fase di immagazzinamento. I pericoli 
+descritti comprendono sia rischi diretti per la sicurezza delle persone, sia rischi legati alla 
+movimentazione e alla gestione dei materiali. 
+2. Rischi durante le attività all’interno dei locali 
+ Caduta a livello: causata da inciampamento o scivolamento su superfici irregolari, 
+ingombrate o sdrucciolevoli. 
+ Urti e inciampi: dovuti alla presenza di materiali a terra, cassetti lasciati aperti, cavi 
+elettrici volanti, oggetti sporgenti. 
+ Scivolamenti su pavimento umido: frequenti durante pulizia o lavaggio dei pavimenti. 
+ Cadute dall’alto: provocate da aperture non protette, scale non sicure o superfici 
+sopraelevate prive di parapetti. 
+3. Rischi durante il trasporto di materiale 
+(ad esempio, dagli uffici agli archivi) 
+ Urto contro spigoli, bordi o materiali: inclusi gli urti contro materiali in movimento o 
+provvisoriamente posizionati a terra per esigenze di lavoro. 
+4. Rischi nell’immagazzinamento di materiali 
+ Caduta accidentale dei materiali: durante il prelievo o il deposito. 
+ Cedimenti strutturali degli scaffali: collasso parziale o totale dovuto a sovraccarichi o 
+difetti strutturali. 
+ Urto contro ostacoli: durante la movimentazione interna o in magazzino. 
+ Caduta di oggetti dall’alto: merci mal stoccate o instabili che cadono; include anche il 
+ribaltamento di pile di materiali. 
+ Investimento: dovuto al rovesciamento o alla caduta di carichi durante il trasporto. 
+ Scontri fra veicoli e pedoni: collisioni con carrelli elevatori, transpallet o altri mezzi di 
+movimentazione interna. 
+5. Analisi dell’immagine 
+L’immagine in basso rappresenta pittogrammi di avviso di pericolo: 
+ Pittogramma di caduta oggetti dall’alto: persona colpita da un oggetto che cade. 
+ Pittogramma di caduta dall’alto: figura umana che cade da una quota elevata. 
+ Pittogramma di urto o perdita di equilibrio: persona che scivola o inciampa. 
+ Pittogramma di investimento da veicolo: figura colpita da un carrello elevatore. 
+ Pittogramma centrale di pericolo generico: triangolo giallo con punto esclamativo, che 
+indica un’attenzione generale ai rischi elencati. 
+Questi simboli servono a comunicare visivamente i pericoli presenti in magazzini, reparti 
+produttivi e aree di movimentazione merci. 
+6. Significato combinato testo + immagine 
+Il testo fornisce un elenco descrittivo dei rischi, mentre l’immagine rafforza la comunicazione 
+visiva per facilitare la comprensione e la memorizzazione da parte dei lavoratori. Insieme, 
+trasmettono che i pericoli in azienda non derivano solo da macchinari complessi, ma anche da 
+elementi comuni come pavimenti bagnati, ostacoli, stoccaggio inadeguato e traffico interno di 
+mezzi. 
+7. Misure preventive consigliate 
+ Mantenere i percorsi sgombri da ostacoli e materiali. 
+ Garantire l’uso di pavimenti antiscivolo e segnalare superfici bagnate. 
+ Installare protezioni e parapetti su aperture e scale. 
+ Assicurare scaffalature conformi, senza sovraccarichi e con controlli periodici. 
+ Stoccare i materiali in modo stabile e sicuro. 
+ Formare il personale sulla movimentazione sicura di carichi e sull’uso corretto di mezzi 
+di trasporto interni. 
+ Separare i percorsi pedonali da quelli dei veicoli. 
+8. Esempi di domande che il chatbot può gestire con queste informazioni 
+ Quali sono i principali rischi di inciampo in un luogo di lavoro? 
+ Cosa si intende per caduta a livello? 
+ Come si prevengono le cadute di oggetti dall’alto in magazzino? 
+ Quali pericoli sono associati alla movimentazione interna di materiali? 
+ Come evitare scontri fra carrelli elevatori e pedoni? 
+Requisiti di Salute e Sicurezza nei Luoghi di Lavoro 
+(Manuale sui Rischi Specifici – rif. art. 63 D.Lgs. 81/2008 e s.m.i.) 
+1. Principio generale 
+Tutti i luoghi di lavoro devono rispettare i requisiti previsti dall’Allegato IV del D.Lgs. 81/2008, 
+garantendo condizioni di sicurezza e salute adeguate a tutti i lavoratori. 
+2. Requisiti degli ambienti di lavoro 
+Stabilità e solidità delle strutture 
+ Gli edifici e le strutture devono essere stabili, resistenti e sicuri per l’uso previsto, 
+prevenendo cedimenti o crolli. 
+Altezza, cubatura e superficie 
+ Le misure di cubatura e superficie sono valori lordi, cioè calcolati senza sottrarre lo 
+spazio occupato da mobili, macchine o impianti fissi. 
+ Altezza netta minima: 3 metri, misurata dal pavimento all’altezza media del soffitto o 
+della volta. 
+ Sono possibili deroghe per altezze inferiori a 3 m, a condizione che sia garantita 
+un’adeguata ventilazione. 
+ Per locali adibiti a uffici o attività commerciali, i limiti possono essere quelli stabiliti 
+dalla normativa urbanistica (in genere 2,70 m). 
+ Cubatura minima: 10 m³ per lavoratore. 
+ Superficie minima: 2 m² per lavoratore in ogni ambiente occupato. 
+Pavimenti, muri, soffitti, finestre e lucernari 
+ Devono essere in buone condizioni, privi di difetti pericolosi, adeguatamente isolati e 
+sicuri. 
+ Scale, marciapiedi mobili, banchine e rampe di carico devono garantire sicurezza e 
+stabilità. 
+Vie di circolazione, zone di pericolo, pavimenti e passaggi 
+ I percorsi interni devono essere progettati e mantenuti per evitare rischi di inciampo, 
+caduta o collisione. 
+ Le zone di pericolo devono essere segnalate e protette. 
+Vie ed uscite di emergenza 
+ Il numero, la distribuzione e le dimensioni delle uscite e delle vie di emergenza devono 
+permettere l’evacuazione rapida e sicura di tutte le persone presenti. 
+ Devono essere mantenute sempre libere e chiaramente segnalate. 
+Porte e portoni 
+ Devono essere progettati per consentire un’uscita veloce delle persone in caso di 
+emergenza. 
+ Devono potersi aprire facilmente dall’interno durante le attività. 
+ Numero, dimensioni, posizione e materiali devono essere adeguati al flusso previsto di 
+lavoratori e mezzi. 
+Scale 
+ Devono essere sicure, con parapetti e gradini antiscivolo, e mantenute in buono stato. 
+Posti di lavoro, passaggi e luoghi di lavoro esterni 
+ Devono essere accessibili, sicuri e organizzati per evitare rischi da caduta, urti o 
+esposizione a condizioni pericolose. 
+Microclima 
+ Temperatura, umidità e ventilazione devono garantire comfort e sicurezza, evitando 
+condizioni estreme. 
+Illuminazione naturale e artificiale 
+ L’illuminazione deve essere sufficiente e adeguata al tipo di attività, riducendo 
+l’affaticamento visivo e migliorando la sicurezza. 
+3. Significato operativo 
+Questi requisiti stabiliscono uno standard minimo di sicurezza che il datore di lavoro deve 
+rispettare per tutti gli ambienti, interni ed esterni. 
+Il mancato rispetto può comportare rischi diretti per la salute e la sicurezza, oltre a sanzioni 
+previste dalla legge. 
+4. Esempi di domande che il chatbot può gestire 
+ Qual è l’altezza minima richiesta per un luogo di lavoro? 
+ Quanta superficie minima deve avere un ambiente per ogni lavoratore? 
+ Come devono essere le vie di emergenza? 
+ Quali requisiti devono rispettare porte e portoni nei luoghi di lavoro? 
+ Cos’è il microclima e perché è importante? 
+Servizi, Presenza di Agenti Nocivi e Obblighi del Datore di 
+Lavoro 
+(Collana Prevenzione e Protezione – rif. art. 64 D.Lgs. 81/2008 e s.m.i.) 
+1. Servizi nei luoghi di lavoro 
+Locali di riposo e refezione 
+ Spazi destinati al recupero psico-fisico dei lavoratori e alla consumazione dei pasti. 
+ Devono essere confortevoli, sicuri e dotati di arredi adeguati. 
+Servizi igienico-assistenziali 
+ Disponibilità qualitativa e quantitativa di locali igienici adeguati, in numero sufficiente 
+e posizionati in modo pratico. 
+ Devono esserci servizi igienici separati per uomini e donne. 
+ Dotazioni igienico-sanitarie commisurate alle esigenze delle specifiche attività lavorative 
+(es. docce, spogliatoi, lavabi). 
+Dormitori 
+ Quando previsti, devono essere sicuri, salubri e rispondenti agli standard igienico-sanitari 
+richiesti. 
+2. Presenza nei luoghi di lavoro di agenti nocivi 
+Difesa dagli agenti nocivi 
+ Misure per prevenire o ridurre l’esposizione a sostanze o condizioni dannose per la salute 
+(chimiche, fisiche o biologiche). 
+Difesa contro le polveri 
+ Sistemi di aspirazione, ventilazione e protezione individuale per limitare l’inalazione di 
+polveri nocive. 
+3. Aree e impianti particolari 
+ Vasche, canalizzazioni, tubazioni, serbatoi, recipienti, silos: devono essere sicuri, 
+mantenuti in buono stato e accessibili solo a personale autorizzato. 
+ Misure contro incendio ed esplosione: prevenzione, rilevazione e sistemi di 
+spegnimento in aree a rischio. 
+ Disposizioni relative alle aziende agricole: regole specifiche in base alla tipologia di 
+attività. 
+4. Accessibilità per lavoratori disabili 
+ I luoghi di lavoro devono essere strutturati in modo da tenere conto, se necessario, delle 
+esigenze dei lavoratori disabili. 
+ L’obbligo riguarda in particolare: 
+o Porte e vie di circolazione. 
+o Ascensori e pulsantiere. 
+o Scale e accessi ai piani. 
+o Docce e servizi igienici. 
+o Posti di lavoro utilizzati da lavoratori disabili. 
+5. Obblighi del datore di lavoro (art. 64 D.Lgs. 81/2008) 
+Il datore di lavoro deve garantire che: 
+1. Conformità ai requisiti 
+a) I luoghi di lavoro rispettino i requisiti dell’articolo 63 (commi 1, 2 e 3). 
+2. Sicurezza delle vie di circolazione e uscite di emergenza 
+b) Le vie di circolazione interne o esterne che portano a uscite o uscite di emergenza 
+siano sempre sgombre, in modo da permettere un’evacuazione rapida in ogni circostanza. 
+6. Esempi di domande che il chatbot può gestire 
+ Quali servizi igienico-assistenziali devono essere presenti in un’azienda? 
+ Cosa significa difesa contro le polveri? 
+ Quali adattamenti devono essere previsti per lavoratori disabili? 
+ Cosa deve fare il datore di lavoro per mantenere libere le vie di fuga? 
+ Quali misure di sicurezza servono per vasche, serbatoi e silos? 
+Manutenzione, Igiene e Locali Sotterranei o Semisotterranei 
+(Manuale sui Rischi Specifici – rif. art. 65 D.Lgs. 81/2008 e s.m.i.) 
+1. Obblighi di manutenzione e igiene nei luoghi di lavoro 
+Il datore di lavoro deve assicurare che: 
+c) I luoghi di lavoro, gli impianti e i dispositivi: 
+ Siano sottoposti a manutenzione tecnica regolare. 
+ Siano eliminati, il più rapidamente possibile, eventuali difetti rilevati che possano 
+compromettere la sicurezza e la salute dei lavoratori. 
+d) I luoghi di lavoro, gli impianti e i dispositivi: 
+ Siano sottoposti a pulitura regolare per garantire condizioni igieniche adeguate. 
+e) Gli impianti e i dispositivi di sicurezza: 
+ Siano mantenuti in buono stato tramite manutenzione regolare. 
+ Siano sottoposti a controllo periodico del funzionamento, in quanto destinati alla 
+prevenzione o all’eliminazione dei pericoli. 
+2. Locali sotterranei o semisotterranei 
+Normativa di base 
+1. Divieto generale: È vietato destinare al lavoro locali chiusi sotterranei o semisotterranei. 
+2. Deroghe: In deroga al divieto, tali locali possono essere utilizzati per il lavoro solo 
+quando ricorrono particolari esigenze tecniche, garantendo idonee condizioni di: 
+o Aerazione. 
+o Illuminazione. 
+o Microclima. 
+3. Casi in cui è possibile destinare al lavoro locali sotterranei/semisotterranei 
+a) Concessione di deroga 
+ È necessaria un’autorizzazione formale (deroga) e il rispetto di condizioni specifiche: 
+o Le lavorazioni non devono generare emanazioni nocive. 
+o Non devono esporre i lavoratori a temperature eccessive. 
+b) Particolari esigenze tecniche (senza deroga) 
+ Ammesso quando: 
+o Le condizioni sono indispensabili per l’ottimale resa del ciclo produttivo. 
+o Non è possibile ottenere lo stesso risultato con soluzioni tecniche alternative. 
+o La condizione attuale è ritenuta necessaria sulla base delle conoscenze tecniche 
+disponibili. 
+4. Significato dell’illustrazione 
+L’immagine rappresenta un accesso a un locale sotterraneo tramite scala, con segnaletica 
+visibile. Questo evidenzia la necessità di: 
+ Accessi sicuri e conformi. 
+ Chiarezza sulla destinazione d’uso del locale. 
+ Controllo dell’areazione e delle condizioni ambientali. 
+5. Esempi di domande che il chatbot può gestire 
+ Quando è vietato l’uso di locali sotterranei come luoghi di lavoro? 
+ Quali condizioni devono essere rispettate per ottenere la deroga? 
+ Cosa si intende per “particolari esigenze tecniche”? 
+ Quali sono gli obblighi di manutenzione per impianti e dispositivi di sicurezza? 
+ Perché è importante la pulizia regolare dei luoghi di lavoro? 
+Microclima 
+(Collana Prevenzione e Protezione) 
+1. Definizione di microclima 
+Il microclima è l’insieme dei parametri fisici ambientali che caratterizzano un determinato 
+ambiente di lavoro (che può essere chiuso o aperto) e che, insieme a fattori individuali come 
+l’attività metabolica e l’abbigliamento, determinano gli scambi termici tra l’ambiente e le 
+persone che vi operano. 
+2. Parametri che influenzano il benessere microclimatico 
+Il comfort o benessere microclimatico è determinato da una combinazione di parametri 
+ambientali e individuali: 
+ Temperatura secca e umida dell’aria. 
+ Temperatura radiante (influenza delle superfici circostanti). 
+ Umidità relativa. 
+ Velocità dell’aria (correnti e ventilazione). 
+ Attività metabolica (dispendio energetico del lavoratore). 
+ Isolamento termico dell’abbigliamento. 
+3. Rilevanza delle condizioni microclimatiche 
+Le condizioni ambientali assumono importanza quando: 
+ Si lavora in ambienti con forte presenza di energia termica → possibili temperature 
+elevate. 
+ Si svolgono attività in luoghi molto freddi → esposizione al freddo, come ad esempio 
+nelle celle frigorifere. 
+4. Microclima nelle celle frigorifere 
+ In questi ambienti le temperature sono molto basse e uniformi, con velocità dell’aria 
+quasi nulla. 
+ Ciò genera parametri termoigrometrici severi, considerati stressanti per l’organismo. 
+ È necessario adottare misure specifiche di protezione per i lavoratori. 
+5. Obblighi del datore di lavoro 
+Il datore di lavoro deve: 
+ Mantenere il microclima il più possibile vicino alla zona di benessere termico. 
+ Garantire condizioni in cui la maggioranza dei lavoratori si senta termicamente a 
+proprio agio. 
+ Intervenire nella progettazione dell’edificio e nella gestione successiva su: 
+o esposizione al sole, 
+o isolamento termico delle pareti, 
+o rapporti di ventilazione, 
+o schermature e impianti di regolazione termoigrometrica. 
+6. Nota sulle modifiche all’abbigliamento 
+ Negli ambienti termici moderati, l’abbigliamento non deve essere usato come 
+principale strumento di controllo del microclima. 
+ Eventuali modifiche vanno considerate solo come extrema ratio e in casi particolari, 
+evitando soluzioni che vadano contro il buon senso o che espongano a rischi. 
+7. Esempi di domande che il chatbot può gestire 
+ Che cos’è il microclima in un luogo di lavoro? 
+ Quali parametri determinano il comfort termico? 
+ Perché le celle frigorifere sono considerate ambienti severi? 
+ Quali sono gli obblighi del datore di lavoro per garantire un microclima ottimale? 
+ Quando si può intervenire sull’abbigliamento dei lavoratori per motivi microclimatici? 
+Aerazione, Temperatura e Umidità nei Luoghi di Lavoro 
+Chiusi 
+(Manuale sui Rischi Specifici) 
+1. Aerazione dei luoghi di lavoro chiusi 
+Nei locali chiusi, la fornitura di aria salubre deve essere garantita in quantità sufficiente, 
+considerando i metodi di lavoro e gli sforzi fisici dei lavoratori. 
+La ventilazione deve avvenire preferibilmente tramite aperture naturali; quando ciò non è 
+possibile, devono essere utilizzati impianti di aerazione. 
+Requisiti e manutenzione: 
+ Funzionalità costante: gli impianti di aerazione devono essere sempre mantenuti 
+operativi. 
+ Condizionamento e ventilazione meccanica: devono funzionare in modo da evitare 
+l’esposizione dei lavoratori a correnti d’aria fastidiose. 
+ Controlli e igiene: impianti sottoposti a regolare manutenzione, pulizia e sanificazione. 
+2. Temperatura dei locali 
+La temperatura deve: 
+ Essere adeguata all’organismo umano durante l’orario di lavoro, in base al tipo di 
+mansione e allo sforzo fisico richiesto. 
+ Considerare l’effetto dell’umidità e del movimento dell’aria. 
+Misure alternative: 
+Quando non è possibile modificare la temperatura dell’ambiente, il datore di lavoro deve 
+proteggere i lavoratori con: 
+ Misure tecniche localizzate (es. barriere termiche, postazioni protette). 
+ Mezzi personali di protezione (es. indumenti termici). 
+3. Umidità 
+Nei locali chiusi delle aziende industriali in cui l’aria tende a inumidirsi per motivi di 
+lavorazione: 
+ È necessario evitare, per quanto possibile, la formazione di nebbia. 
+ Temperatura e umidità devono essere mantenute entro valori compatibili con le esigenze 
+tecniche e di sicurezza. 
+4. Significato dell’immagine 
+L’illustrazione mostra un termometro che segna temperature estreme sia calde che fredde, 
+indicando: 
+ La necessità di controllare il clima interno per evitare disagi e rischi alla salute. 
+ L’importanza di prevenire condizioni termiche fuori dall’intervallo di comfort. 
+5. Esempi di domande che il chatbot può gestire 
+ Come deve essere garantita l’aerazione nei luoghi di lavoro chiusi? 
+ Cosa si intende per “correnti d’aria fastidiose” e come si evitano? 
+ Qual è la temperatura ideale per un luogo di lavoro industriale? 
+ Come si deve intervenire se non si può modificare la temperatura dell’ambiente? 
+ Quali misure adottare per controllare l’umidità e prevenire la formazione di nebbia? 
+Condizionamento dell’Aria e Illuminazione nei Luoghi di 
+Lavoro 
+(Collana Prevenzione e Protezione) 
+1. Requisiti degli impianti di condizionamento dell’aria 
+Gli impianti devono garantire condizioni ambientali idonee, differenziate per stagione: 
+Nella stagione invernale 
+ Temperatura interna: compresa tra 18°C e 20°C. 
+ Umidità relativa: tra il 40% e il 60%. 
+ Velocità dell’aria: massimo 0,15 m/s. 
+Nella stagione estiva 
+ Differenza di temperatura tra interno ed esterno: massimo 7°C. 
+ Umidità relativa: compresa tra il 40% e il 50%. 
+ Velocità dell’aria: massimo 0,25 m/s. 
+2. Illuminazione naturale ed artificiale 
+Principio generale 
+ È sempre richiesta la luce naturale; quando non è tecnicamente possibile, devono essere 
+utilizzate fonti artificiali adeguate per garantire sicurezza, salute e benessere dei 
+lavoratori. 
+Definizioni e requisiti 
+ Superficie illuminante: porzione utile di finestre e porte-finestre che prospettano verso 
+l’esterno. 
+ Porte e portoni non trasparenti alla luce non sono considerati superfici illuminanti, 
+anche se restano aperti per parte della giornata. 
+ Illuminazione di sicurezza: deve fornire visibilità sufficiente per percorrere le vie di 
+fuga in sicurezza. 
+ Superfici vetrate illuminanti e mezzi di illuminazione artificiale devono essere 
+mantenuti puliti ed efficienti. 
+3. Analisi dell’immagine 
+L’illustrazione mostra un ufficio con: 
+ Ampie superfici vetrate che permettono l’ingresso di luce naturale. 
+ Illuminazione artificiale a soffitto per integrare la luce naturale. 
+ Postazioni di lavoro disposte in modo da sfruttare l’illuminazione senza abbagliamenti 
+diretti. 
+ Ambiente ordinato e organizzato, conforme agli standard di benessere visivo e comfort 
+lavorativo. 
+4. Obiettivi di sicurezza e benessere 
+ Garantire condizioni visive ottimali per ridurre l’affaticamento degli occhi. 
+ Prevenire incidenti dovuti a scarsa visibilità, specialmente nelle vie di fuga. 
+ Mantenere condizioni di luminosità costanti durante tutta la giornata lavorativa. 
+5. Esempi di domande che il chatbot può gestire 
+ Qual è la temperatura e l’umidità consigliata per un ufficio in inverno? 
+ Qual è la differenza di temperatura massima tra interno ed esterno in estate? 
+ Cosa si intende per superficie illuminante? 
+ Quali sono i requisiti dell’illuminazione di sicurezza? 
+ Perché è importante mantenere pulite le superfici vetrate e le lampade? 
+Norma UNI EN 12464-1: Illuminazione dei Posti di Lavoro 
+in Interni 
+(Manuale sui Rischi Specifici) 
+1. Descrizione della norma 
+La norma UNI EN 12464-1 “Luce e illuminazione – Illuminazione dei posti di lavoro – Parte 
+1: Posti di lavoro in interni” specifica i requisiti di illuminazione per persone che operano in 
+ambienti chiusi, in base a: 
+ Esigenze di comfort visivo. 
+ Prestazione visiva di persone con capacità visiva normale. 
+Include: 
+ Tutti i compiti visivi abituali. 
+ Livelli di illuminamento richiesti. 
+ Uniformità e grado massimo di abbagliamento. 
+ Condizioni per compiti visivi che prevedono l’uso di videoterminali. 
+2. Obiettivo della norma 
+ Garantire che l’illuminazione sia sufficiente e adeguata al tipo di attività svolta. 
+ Ridurre l’affaticamento visivo e migliorare la sicurezza. 
+ Fornire un ambiente di lavoro confortevole e funzionale. 
+3. Valori indicativi delle norme illuminotecniche 
+Ambiente / Attività 
+Livello di illuminamento 
+Aree di circolazione e corridoi 
+Scale, ascensori, tappeti mobili 
+Guardaroba, gabinetti, bagni, toilette 
+Magazzini, aree di stoccaggio 
+Aree di trasporto, imballaggio, spedizione 
+Produzione gastronomica, lavori di cucina 
+Luoghi di lavoro in impianti di processo con presenza continua di 
+personale 
+Vendita al dettaglio – aree di vendita 
+Vendita al dettaglio – casse 
+Ristoranti e hotel – reception/cassa, portineria 
+Ristoranti e hotel – cucina 
+Uffici – archiviazione, copiatura 
+Uffici – scrittura, dattilografia, lettura, elaborazione dati 
+Uffici – disegno tecnico 
+100 lx 
+150 lx 
+200 lx 
+100 lx (200 lx se occupati 
+continuamente) 
+300 lx 
+500 lx 
+300 lx 
+300 lx 
+500 lx 
+300 lx 
+500 lx 
+300 lx 
+500 lx 
+750 lx 
+4. Significato pratico 
+ lx (lux) è l’unità di misura dell’illuminamento, che indica la quantità di luce che 
+raggiunge una superficie. 
+ Attività più complesse o di precisione richiedono valori di lux più elevati. 
+ Mantenere i livelli raccomandati aiuta a: 
+o Ridurre gli errori. 
+o Diminuire il rischio di incidenti. 
+o Aumentare il comfort e la produttività. 
+5. Esempi di domande che il chatbot può gestire 
+ Qual è il livello di illuminamento raccomandato per un ufficio in cui si fa disegno 
+tecnico? 
+ Quanti lux servono per le aree di stoccaggio occupate continuamente? 
+ Perché le casse nei negozi hanno bisogno di più luce rispetto alle aree di vendita? 
+ Qual è il valore minimo per una reception di hotel? 
+ Come si misura l’illuminamento di un ambiente? 
+Uso delle Attrezzature di Lavoro 
+(Collana Prevenzione e Protezione – Macchine ed Attrezzature, Rischio Meccanico) 
+1. Normativa di riferimento 
+L’uso in sicurezza delle attrezzature di lavoro è regolato dal Titolo III, Capo I del D.Lgs. 81/08. 
+Il decreto include anche le macchine nella definizione di attrezzatura di lavoro. 
+Art. 69 – Definizione 
+“Attrezzatura di lavoro”: qualsiasi macchina, apparecchio, utensile od impianto destinato ad 
+essere usato durante il lavoro. 
+2. Ambito di applicazione 
+L’uso di un’attrezzatura di lavoro non si limita al solo impiego operativo, ma comprende 
+qualsiasi operazione lavorativa connessa ad essa, tra cui: 
+ Messa in servizio o fuori servizio. 
+ Impiego ordinario. 
+ Trasporto. 
+ Riparazione. 
+ Trasformazione. 
+ Manutenzione. 
+ Pulizia. 
+ Smontaggio. 
+3. Zone e figure a rischio 
+Zona Pericolosa 
+Qualsiasi area all’interno o nelle vicinanze di un’attrezzatura di lavoro nella quale la presenza di 
+un lavoratore costituisce un rischio per salute e sicurezza. 
+ Include spazi operativi interni ed esterni alla macchina o impianto. 
+ Si estende all’area limitrofa, in relazione sia all’attività dell’operatore sia a quella di altri 
+lavoratori che possano trovarsi nella zona. 
+Lavoratore Esposto 
+Qualsiasi lavoratore che si trovi interamente o in parte in una zona pericolosa. 
+4. Il rischio meccanico 
+È un rischio multifattoriale, da valutare considerando: 
+ Aspetti tecnici. 
+ Aspetti organizzativi e procedurali. 
+ Aspetti ergonomici. 
+Tipologie di rischio meccanico: 
+ Presenza di elementi in movimento (organi meccanici, nastri, rulli, utensili rotanti). 
+ Possibilità di proiezione di schegge o materiali. 
+ Caduta o ribaltamento di oggetti. 
+ Conseguenze di guasti o rotture delle macchine o degli impianti collegati. 
+5. Obiettivi della prevenzione 
+ Garantire ripari e protezioni idonei per isolare zone pericolose. 
+ Adottare procedure di sicurezza per utilizzo, manutenzione e pulizia. 
+ Formare e informare i lavoratori sui rischi specifici dell’attrezzatura. 
+6. Esempi di domande che il chatbot può gestire 
+ Cosa si intende per attrezzatura di lavoro secondo l’art. 69 del D.Lgs. 81/08? 
+ Quali attività rientrano nell’uso di un’attrezzatura di lavoro? 
+ Cos’è una zona pericolosa? 
+ Chi è il lavoratore esposto? 
+ Quali sono le principali tipologie di rischio meccanico? 
+Principali Rischi di Natura Meccanica Associati alle 
+Macchine Utensili 
+(Manuale sui Rischi Specifici) 
+1. Tipologie di rischio meccanico 
+ Schiacciamento 
+Deriva dal moto relativo di due parti che vengono a contatto o si avvicinano fra loro fino 
+al punto da poter schiacciare il corpo o gli arti di una persona. 
+ Cesoia mento 
+Effetto “forbice” per cui due elementi in movimento, passando uno vicino all’altro, 
+possono tagliare o amputare arti del corpo. 
+ Impigliamento 
+Meccanismo in cui parti del corpo (spesso capelli) o abbigliamento (cravatte, maniche, 
+sciarpe) e accessori (catenine, orologi, anelli) possono restare intrappolati in parti di 
+macchina in movimento, trascinando la persona nella zona pericolosa. 
+ Trascinamento 
+Una parte della macchina in movimento può spingere o trascinare una persona. 
+ Urto con parti di macchina in movimento 
+Possibile durante attività in prossimità di organi meccanici in funzione. 
+ Abrasione 
+Dovuta allo sfregamento del corpo su superfici ruvide, anche come conseguenza di 
+cadute o urti. 
+ Intrappolamento 
+Si verifica quando una persona resta bloccata nella zona di lavoro della macchina e non 
+può allontanarsi a causa delle azioni della macchina stessa. 
+ Proiezione di fluidi ad alta pressione 
+Generalmente oli o liquidi lubrorefrigeranti presenti nelle macchine. 
+ Proiezione di materiale solido 
+Schegge, trucioli o frammenti provenienti dalle lavorazioni. 
+ Perdita di stabilità della macchina 
+Possibilità di ribaltamento di macchine non saldamente ancorate. 
+o Rischio maggiore per macchine mobili (es. carrelli elevatori). 
+o Anche per macchine fisse in presenza di forti vibrazioni. 
+ Contatti diretti e indiretti con parti elettriche 
+Parti elettriche e sistemi di controllo a bordo macchina che possono costituire rischio di 
+folgorazione. 
+ Ustione 
+Provocata dal contatto con superfici calde. 
+2. Prevenzione e protezioni raccomandate 
+ Installazione di ripari fissi e mobili. 
+ Utilizzo di DPI specifici (guanti, occhiali, visiere, calzature di sicurezza). 
+ Formazione e addestramento continuo sui rischi specifici delle macchine. 
+ Manutenzione regolare per prevenire guasti e vibrazioni anomale. 
+ Sistemi di aspirazione per rimuovere trucioli e schegge. 
+ Segnaletica di pericolo visibile nelle zone a rischio. 
+3. Esempi di domande che il chatbot può gestire 
+ Qual è la differenza tra schiacciamento e cesoiamento? 
+ Come avviene un impigliamento in una macchina utensile? 
+ Quali rischi sono legati alla proiezione di fluidi? 
+ Cosa si intende per perdita di stabilità di una macchina? 
+ Come si previene l’ustione da parti calde di una macchina? 
+Obblighi del Datore di Lavoro e Misure di Prevenzione e 
+Protezione nell’Uso delle Attrezzature di Lavoro 
+(Collana Prevenzione e Protezione) 
+1. Obblighi del datore di lavoro 
+Il datore di lavoro deve: 
+ Valutare, già nella fase di scelta e acquisto, che l’attrezzatura sia idonea all’uso previsto 
+nel ciclo produttivo aziendale. 
+ Considerare e valutare i rischi nel contesto operativo reale dell’azienda, non solo 
+basandosi su caratteristiche intrinseche del prodotto (es. marchiatura CE, garanzia del 
+fabbricante). 
+Riferimento normativo: Art. 71 del D.Lgs. 81/08 e s.m.i. 
+I primi quattro commi riportano obblighi collegati a una corretta valutazione dei rischi. 
+2. Misure di prevenzione e protezione 
+Per ridurre i rischi legati all’uso delle attrezzature, devono essere adottate misure tecniche e 
+organizzative conformi a quanto previsto dall’Allegato VI del D.Lgs. 81/08 (“Disposizioni 
+concernenti l’uso delle attrezzature di lavoro”). 
+3. Disposizioni generali di particolare importanza 
+ Utilizzo corretto 
+Le attrezzature non possono essere utilizzate per operazioni o condizioni per cui non 
+sono adatte. 
+ Installazione, disposizione e uso sicuro 
+Devono essere installate, disposte e usate in modo da ridurre i rischi per gli operatori e 
+per le altre persone. 
+Esempi: 
+o Garantire sufficiente spazio tra gli elementi mobili dell’attrezzatura e i corpi fissi 
+o mobili circostanti. 
+o Assicurare che tutte le energie e le sostanze utilizzate o prodotte siano 
+addotte/estratte in modo sicuro. 
+ Montaggio e smontaggio sicuro 
+Devono essere effettuati in sicurezza, rispettando le istruzioni d’uso del fabbricante. 
+4. Illustrazione 
+L’immagine raffigura un operatore in un’officina, con attrezzi organizzati e in ordine, a 
+sottolineare: 
+ L’importanza della manutenzione e del corretto posizionamento delle attrezzature. 
+ L’uso di ambienti ordinati per ridurre rischi di inciampo, urto o danneggiamento degli 
+strumenti. 
+5. Esempi di domande che il chatbot può gestire 
+ Quali sono gli obblighi del datore di lavoro secondo l’art. 71 del D.Lgs. 81/08? 
+ Quando un’attrezzatura non può essere utilizzata? 
+ Quali criteri devono essere rispettati per installare un’attrezzatura in sicurezza? 
+ Come si garantisce il montaggio e lo smontaggio sicuro di un macchinario? 
+Manuale di Istruzioni e Scale Portatili 
+(Manuale sui Rischi Specifici) 
+1. Il manuale di istruzioni 
+Contenuti obbligatori 
+Il manuale di istruzioni di una macchina o attrezzatura deve comprendere: 
+ Riepilogo delle indicazioni previste per la marcatura, eventualmente integrate con 
+informazioni utili per facilitare la manutenzione. 
+ Condizioni di utilizzazione previste. 
+ Posti di lavoro che possono essere occupati dagli operatori. 
+ Istruzioni per operare in sicurezza nelle seguenti fasi: 
+o Messa in funzione e fuori servizio. 
+o Utilizzazione. 
+o Trasporto. 
+o Installazione. 
+o Montaggio e smontaggio. 
+o Regolazione. 
+o Manutenzione e riparazione. 
+o Addestramento. 
+o Specifiche sugli utensili che possono essere montati. 
+ Traduzione delle istruzioni nella lingua del paese di utilizzo, accompagnata dal testo 
+originale. 
+Allegati al manuale 
+ Schemi della macchina necessari per: 
+o Messa in funzione. 
+o Manutenzione e ispezione. 
+o Controllo del buon funzionamento. 
+o Eventuale riparazione. 
+ Ulteriori avvertenze utili, soprattutto in materia di sicurezza. 
+2. Scale portatili 
+Uso e rischi 
+ Le scale portatili sono attrezzature di largo impiego negli ambienti di lavoro. 
+ Il loro uso improprio è tra le prime cause di infortuni per caduta dall’alto. 
+Definizione 
+Una scala è considerata portatile quando: 
+ Può essere trasportata e installata a mano, senza l’uso di mezzi meccanici. 
+Tipologie 
+ Scale semplici di appoggio: 
+o Costituite da pioli o gradini. 
+o Appoggiano la parte inferiore a terra e la parte superiore a una superficie 
+verticale. 
+o Non hanno un proprio sostegno. 
+o L’altezza massima è limitata in funzione dell’uso. 
+Sottotipo: 
+ Semplici: un solo tronco ad altezza fissa. 
+3. Illustrazione 
+L’immagine mostra una scala semplice di appoggio collocata contro una parete, a sottolineare: 
+ La corretta posizione di appoggio. 
+ L’importanza di stabilità e angolo adeguato per prevenire scivolamenti o ribaltamenti. 
+4. Esempi di domande che il chatbot può gestire 
+ Cosa deve contenere il manuale di istruzioni di una macchina? 
+ Quali fasi operative devono essere coperte dalle istruzioni di sicurezza? 
+ Quando una scala è considerata portatile? 
+ Cos’è una scala semplice di appoggio? 
+ Perché le scale portatili sono una delle principali cause di infortuni? 
+Tipologie di Scale Portatili e Conformità alle Norme 
+(Collana Prevenzione e Protezione) 
+1. Tipologie di scale portatili 
+ Innestabili (o all’italiana) 
+o Altezza variabile ottenuta unendo due o più tronchi tramite dispositivi di 
+collegamento. 
+ A sfilo 
+o Costituite da due o tre tronchi a montanti paralleli. 
+o Lunghezza regolabile di piolo in piolo. 
+ Scale doppia (o a libro) 
+o Autostabili: una volta aperte si sostengono da sole. 
+o Possono avere o meno piattaforma, gradini o pioli. 
+o Consentono salita da uno o entrambi i lati. 
+o Comprendono le scale a castello: 
+ Autostabili con piattaforma. 
+ Spostabili manualmente grazie a ruote. 
+ Utilizzate in locali dove l’uso è previsto e limitato a zone sullo stesso 
+piano. 
+ Scale trasformabili / estendibili 
+o Costituite da più tronchi a pioli. 
+o Possono essere utilizzate come scala semplice di appoggio o come scala doppia 
+con tronco a sbalzo all’estremità superiore. 
+2. Conformità alle disposizioni vigenti 
+Per essere conformi alle norme di sicurezza, le scale portatili devono: 
+a) Progettazione e realizzazione 
+ In conformità a quanto previsto dall’art. 113 del D.Lgs. 81/2008 e s.m.i. 
+b) Manuale di istruzioni 
+ Devono essere fornite con un manuale per montaggio, uso e smontaggio. 
+c) Normativa tecnica UNI EN 131 
+ Le scale certificate secondo questa norma sono conformi per l’uso in tutta l’UE. 
+ Alcune scale possono avere doppia omologazione. 
+ Il datore di lavoro, tramite valutazione dei rischi, sceglie l’attrezzatura più idonea per 
+l’azienda. 
+3. Riferimento normativo importante 
+Art. 111 comma 3 del D.Lgs. 81/2008 
+Il datore di lavoro può disporre l’uso di una scala a pioli come posto di lavoro in quota solo nei 
+casi in cui: 
+ l’uso di altre attrezzature più sicure non sia giustificato per il basso livello di rischio e la 
+breve durata del lavoro, 
+ oppure per le caratteristiche dei luoghi che non permettono altre soluzioni. 
+4. Illustrazione 
+L’immagine raffigura una scala a castello, evidenziando: 
+ Piattaforma di lavoro protetta. 
+ Ruote per spostamento. 
+ Struttura stabile e sicura per lavori a quota limitata. 
+5. Esempi di domande che il chatbot può gestire 
+ Quali sono le principali tipologie di scale portatili? 
+ Cosa prevede l’art. 113 del D.Lgs. 81/2008 per le scale? 
+ Quali requisiti deve avere una scala per essere conforme alla UNI EN 131? 
+ In quali casi si può usare una scala a pioli come posto di lavoro in quota? 
+Rischi Principali e Comportamenti in Sicurezza per l’Uso 
+delle Scale Portatili 
+(Manuale sui Rischi Specifici) 
+1. Rischi principali 
+ Ribaltamento laterale o frontale della scala, sbandamento, slittamento o oscillazioni se 
+la scala non è fissata correttamente alla zona di sbarco. 
+ Caduta dell’operatore. 
+ Caduta dall’alto di oggetti utilizzati da chi opera sulla scala, con possibile 
+coinvolgimento di altre persone. 
+ Incidenti durante il trasporto o lo spostamento della scala. 
+ Cesoiamento. 
+ Shock elettrico in caso di contatto accidentale con circuiti elettrici. 
+o Nota: in presenza di rischio elettrico, non utilizzare scale metalliche. 
+2. Comportamenti in sicurezza 
+Le scale portatili devono essere utilizzate osservando le seguenti disposizioni: 
+1. Uso corretto in base al tipo di scala 
+o Le scale doppie non sono idonee come sistema di accesso ad altri luoghi. 
+o Le scale di appoggio sono idonee anche come sistema di accesso. 
+2. Limitazioni di lunghezza 
+o Lunghezza massima in opera: 
+ 5 metri per configurazione doppia. 
+ 15 metri per configurazione in appoggio. 
+o Per lunghezze superiori, le estremità devono essere assicurate a parti fisse. 
+3. Dotazioni obbligatorie 
+o Le scale in opera lunghe più di 8 metri devono avere rompitratta. 
+4. Utilizzo conforme 
+o Usare la scala secondo le istruzioni del costruttore. 
+o Prima di ogni uso, effettuare una valutazione visiva preventiva sullo stato di 
+conservazione e manutenzione. 
+5. Prevenzione dello sbandamento 
+o In caso di rischio di sbandamento, assicurare la scala o farla trattenere alla base da 
+un’altra persona. 
+6. Uso individuale 
+o Utilizzo consentito a una sola persona per volta. 
+o Vietato trasportare carichi eccessivi. 
+3. Finalità delle disposizioni 
+Queste regole mirano a: 
+ Prevenire cadute e infortuni. 
+ Garantire la stabilità della scala in tutte le fasi di utilizzo. 
+ Evitare rischi aggiuntivi come il contatto con elettricità o il sovraccarico. 
+4. Esempi di domande che il chatbot può gestire 
+ Quali sono i principali rischi nell’uso delle scale portatili? 
+ Qual è la lunghezza massima ammessa per una scala doppia? 
+ Quando è obbligatorio il rompitratta? 
+ Perché non si devono usare scale metalliche vicino a circuiti elettrici? 
+ Perché le scale doppie non sono adatte come sistema di accesso? 
+Uso Sicuro delle Scale Portatili e Attrezzature Elettriche 
+(Rischio Elettrico) 
+(Collana Prevenzione e Protezione) 
+1. Regole di comportamento per l’uso sicuro delle scale portatili 
+ Mani libere 
+o Tenere entrambe le mani libere per potersi reggere durante salita e discesa. 
+ Accessi liberi 
+o Mantenere sgombri da materiali i punti di accesso alla scala, sia in alto che in 
+basso. 
+ Posizione corretta 
+o Mantenersi sulla linea mediana della scala, con il viso rivolto verso di essa, sia in 
+salita che in discesa. 
+o Qualsiasi spostamento della scala, anche minimo, deve essere eseguito da terra e 
+senza persone sulla scala. 
+ Trasporto sicuro 
+o Nel trasporto a spalla, tenere la scala inclinata, mai orizzontale, soprattutto 
+quando la visuale è limitata (es. in curva). 
+ Controlli periodici 
+o Verificare regolarmente l’integrità dei montanti, dei pioli e degli zoccoli 
+antisdrucciolo. 
+Indicazioni visive nell’immagine 
+ NO: trasporto della scala in posizione orizzontale sulle spalle. 
+ SÌ: trasporto della scala inclinata, con attenzione alla visuale e alla stabilità. 
+2. Attrezzature ed impianti elettrici – Rischio elettrico 
+Definizione di impianto elettrico 
+Un impianto elettrico comprende l’insieme delle costruzioni e installazioni destinate a una o più 
+delle seguenti funzioni: 
+ Produzione di energia elettrica. 
+ Conversione e trasformazione. 
+ Regolazione e smistamento. 
+ Trasporto e distribuzione. 
+ Utilizzazione dell’energia elettrica. 
+Fonti di rischio 
+La varietà di apparecchiature e condizioni di impiego può generare molteplici fattori di rischio 
+elettrico. 
+3. Esempi di domande che il chatbot può gestire 
+ Come va trasportata correttamente una scala portatile? 
+ Perché non è sicuro trasportare una scala in posizione orizzontale? 
+ Quali controlli devono essere eseguiti periodicamente sulle scale? 
+ Quali sono le funzioni di un impianto elettrico? 
+ Cosa può causare rischio elettrico in un impianto? 
+Rischio Elettrico: Cause, Tipologie e Danni Potenziali 
+(Manuale sui Rischi Specifici) 
+1. Principali cause di rischio elettrico 
+ Contatto diretto con parti in tensione 
+o Avviene in caso di deterioramento o cedimento dell’isolamento di conduttori, 
+custodie di apparecchiature, prese, interruttori, ecc. 
+o Può derivare anche da urto meccanico che danneggia l’isolamento, permettendo 
+l’accesso alle parti attive. 
+ Contatto indiretto con parti in tensione 
+o Si verifica quando, a causa del cedimento dell’isolamento, si ha tensione sulla 
+carcassa di impianti, prese o involucri. 
+ Sovratensioni indotte 
+o Possono interessare apparecchiature e cavi. 
+2. Rischio elettrico nei lavori fuori tensione 
+ Mancato sezionamento di tutte le fonti di possibile alimentazione 
+o Può essere causato da errore di manovra o mancata individuazione di punti ancora 
+alimentati. 
+ Contatto accidentale con parti in tensione adiacenti 
+o Dovuto a distanza di sicurezza insufficiente o protezioni inadeguate rispetto ad 
+altri impianti. 
+ Tensioni trasferite 
+o Derivanti da un guasto a terra. 
+ Tensioni indotte 
+o Causate da parallelismi con altri impianti. 
+ Tensioni indotte da scariche atmosferiche 
+o Sovratensioni provocate da fulminazioni indirette che possono introdurre scariche 
+nelle linee elettriche o nelle masse metalliche collegate. 
+3. Ulteriori rischi legati all’elettricità 
+ Innesco elettrico 
+o Possibile causa di incendi o esplosioni, dovuti ad archi elettrici e alte temperature. 
+ Uso scorretto delle dotazioni antincendio 
+o Rischi derivanti da un impiego non corretto di attrezzature per la protezione 
+contro incendi su apparecchiature elettriche. 
+4. Danni potenziali per le persone 
+Gli effetti più gravi dell’elettrocuzione (passaggio di corrente elettrica pericolosa nel corpo 
+umano) includono: 
+ Ustioni. 
+ Traumi indiretti dovuti a cadute o movimenti incontrollati dei muscoli (tetanizzazione). 
+ Danni neurologici. 
+ Spasmi. 
+ Arresto respiratorio. 
+ Asfissia. 
+ Fibrillazione ventricolare. 
+ Arresto cardiaco. 
+ Morte. 
+5. Esempi di domande che il chatbot può gestire 
+ Qual è la differenza tra contatto diretto e contatto indiretto con parti in tensione? 
+ Cosa significa sovratensione indotta? 
+ Quali rischi elettrici possono verificarsi nei lavori fuori tensione? 
+ Perché le scariche atmosferiche sono pericolose per gli impianti elettrici? 
+ Quali danni può causare l’elettrocuzione? 
+Effetti della Corrente Elettrica sul Corpo Umano e Presenza 
+del Rischio Elettrico 
+(Collana Prevenzione e Protezione) 
+1. Effetti della corrente elettrica sul corpo umano 
+Shock elettrico 
+ Tetanizzazione 
+o Perdita del controllo volontario del muscolo colpito. 
+ Arresto della respirazione 
+o Asfissia. 
+ Fibrillazione ventricolare 
+o Dopo circa tre minuti provoca lesioni definitive al tessuto cerebrale e al muscolo 
+cardiaco. 
+Arco elettrico 
+ Ustioni 
+o Azione diretta: contatto immediato con la fonte di calore. 
+o Azione indiretta: calore prodotto e radiazioni ultraviolette generate dall’arco 
+elettrico. 
+2. Presenza del rischio elettrico 
+Le situazioni di rischio elettrico più probabili sono associate a: 
+1. Interventi tecnici sotto tensione 
+o Esecuzione di lavori su parti in tensione senza adottare le dovute cautele. 
+2. Impianti o parti non idonei all’uso 
+o Realizzazione di impianti o componenti inadatti all’ambiente di installazione. 
+3. Componenti elettrici non integri 
+o Conduttori con isolamento deteriorato. 
+o Prese o spine danneggiate. 
+4. Uso scorretto di accessori elettrici 
+o Utilizzo improprio di spine multiple, ciabatte o adattatori. 
+3. Finalità preventive 
+ Comprendere gli effetti della corrente elettrica per adottare misure di prevenzione 
+adeguate. 
+ Garantire che le attrezzature e gli impianti siano conformi e mantenuti in buono stato. 
+ Utilizzare solo accessori elettrici sicuri e certificati. 
+4. Esempi di domande che il chatbot può gestire 
+ Cosa significa tetanizzazione in caso di shock elettrico? 
+ Qual è il rischio della fibrillazione ventricolare e in quanto tempo provoca danni 
+permanenti? 
+ Quali sono le principali cause di rischio elettrico? 
+ Perché l’uso di spine multiple può essere pericoloso? 
+ Cosa si intende per arco elettrico e quali effetti provoca? 
+Prevenzione degli Incidenti dovuti all’Elettricità 
+(Manuale sui Rischi Specifici) 
+1. Principi generali di prevenzione 
+ Installazione sicura 
+L’installazione degli impianti elettrici deve essere eseguita da personale abilitato, per 
+garantire conformità alle norme e ai criteri di sicurezza. 
+2. Protezione dai contatti elettrici 
+Contatti diretti 
+ Isolamento delle parti in tensione con schermi isolanti (es. isolamento dei cavi). 
+ Uso di distanziatori meccanici per impedire l’avvicinamento alle parti attive. 
+Contatti indiretti 
+ Messa a terra delle apparecchiature metalliche. 
+ Uso di protezioni differenziali (“salvavita”) che interrompono le correnti di dispersione 
+a valori molto bassi (es. 0,03 A). 
+3. Doppio isolamento 
+ Utilizzo di apparecchiature elettriche con doppio isolamento: 
+o L’involucro contiene la parte elettrica attiva. 
+o Due strati protettivi: lo strato esterno è in materiale non conduttivo (es. plastica). 
+4. Protezione da arco elettrico e incendio elettrico 
+ Basata sulla corretta realizzazione dell’impianto elettrico secondo le norme di buona 
+tecnica. 
+5. Uso corretto degli impianti 
+Anche impianti ed apparecchi elettrici ben dimensionati e selezionati possono diventare molto 
+pericolosi se non utilizzati correttamente. 
+6. Avvertenze pratiche 
+ Non introdurre o utilizzare apparecchiature non fornite dall’azienda (es. piastre 
+elettriche, caffettiere elettriche). 
+ Evitare riparazioni “fai da te”: 
+o In particolare su spine, adattatori, prese multiple, prolunghe. 
+o L’alimentazione di più apparecchi da una sola presa può provocare 
+surriscaldamento. 
+7. Illustrazione 
+L’immagine mostra un esempio di uso improprio di prese multiple e cavi, evidenziando: 
+ Rischio di surriscaldamento. 
+ Possibile cortocircuito. 
+ Pericolo di incendio. 
+8. Esempi di domande che il chatbot può gestire 
+ Come si proteggono i lavoratori dai contatti diretti e indiretti? 
+ Cosa significa doppio isolamento? 
+ Perché il “fai da te” è pericoloso sugli impianti elettrici? 
+ Qual è la funzione del salvavita? 
+ Perché non bisogna collegare più apparecchi a una sola presa? 
+Buone pratiche per prevenire incidenti elettrici 
+(Collana Prevenzione e Protezione) 
+1. Regole di comportamento 
+ Uso corretto delle apparecchiature 
+o Non utilizzare apparecchiature elettriche per scopi non previsti dal costruttore. 
+ Attenzione ai conduttori incassati 
+o Ricordare che i conduttori di un impianto elettrico possono essere nascosti nei 
+muri. 
+o Usare cautela quando si piantano chiodi o si forano le pareti. 
+ Utilizzo in ambienti umidi 
+o Prestare particolare attenzione quando si usano apparecchi elettrici in locali umidi 
+(es. bagni) o con mani e piedi bagnati. 
+o In queste condizioni possono diventare pericolose anche tensioni normalmente 
+non rischiose. 
+ Segnalazione di anomalie 
+o Informare prontamente il datore di lavoro di qualsiasi situazione anomala o di 
+cattive condizioni manutentive di impianti o apparecchiature. 
+ Personale qualificato per manutenzione e installazione 
+o Gli addetti devono seguire procedure specifiche di intervento. 
+o Utilizzare, quando previsti, dispositivi tecnici di protezione: 
+ Guanti dielettrici. 
+ Pedane isolanti. 
+ Utensili isolati, ecc. 
+2. Illustrazione 
+L’immagine mostra un lavoratore che subisce una scossa elettrica: 
+ Evidenzia il rischio derivante da contatto con parti elettriche non protette. 
+ Sottolinea l’importanza dell’uso di dispositivi di protezione individuale e della corretta 
+manutenzione. 
+3. Esempi di domande che il chatbot può gestire 
+ Perché non bisogna usare apparecchi elettrici per scopi diversi da quelli previsti? 
+ Quali precauzioni adottare quando si lavora in un bagno con apparecchi elettrici? 
+ Perché è importante segnalare anomalie negli impianti elettrici? 
+ Quali DPI devono usare gli addetti alla manutenzione elettrica? 
+ Cosa fare per evitare di forare accidentalmente un conduttore incassato? 
+Agenti Fisici: Rumore 
+(Manuale sui Rischi Specifici) 
+1. Tipologie di rumore in ambito lavorativo 
+ Rumori disturbanti 
+o Condizione in cui si verifica una reazione psicologica negativa nella persona 
+esposta, indipendentemente dalla durata o dal livello di esposizione. 
+ Rumori dannosi 
+o Suoni che raggiungono o superano i valori limite stabiliti dalla legge e che 
+possono provocare danni all’udito o alla salute. 
+2. Normativa e valori di riferimento 
+La normativa stabilisce un valore limite di esposizione e due valori di azione: 
+Valori di riferimento Livello di esposizione giornaliera (Lex/8h 
+in dB(A)¹) 
+Valore inferiore di 
+azione 
+Valore superiore di 
+azione 
+80 dB(A) 
+85 dB(A) 
+Limite di esposizione 87 dB(A) 
+Pressione acustica di picco (riferito 
+a 20 μPa) 
+112 Pa pari a 135 dB(C) 
+140 Pa pari a 137 dB(C) 
+200 Pa pari a 140 dB(C) 
+¹ Nota tecnica 
+ Il valore del Lex,8h è espresso in dB(A), cioè in decibel con filtro di ponderazione “A”, 
+che rappresenta in modo approssimativamente fedele come l’orecchio umano percepisce 
+il rumore. 
+3. Illustrazione 
+L’immagine mostra un lavoratore esposto a forti rumori in un ambiente industriale, 
+evidenziando: 
+ Rischio di danno uditivo. 
+ Importanza dell’uso di DPI come cuffie antirumore. 
+4. Esempi di domande che il chatbot può gestire 
+ Qual è la differenza tra rumore disturbante e rumore dannoso? 
+ Qual è il valore limite di esposizione giornaliera al rumore secondo la normativa? 
+ Cosa rappresenta il Lex,8h in dB(A)? 
+ Quali sono i valori di azione per la pressione acustica di picco? 
+ Perché è importante il filtro di ponderazione “A” nella misurazione del rumore? 
+Rumore: Valutazione del Rischio e Misure di Prevenzione | 
+Vibrazioni 
+(Collana Prevenzione e Protezione) 
+1. Valutazione del rischio rumore 
+Valore medio giornaliero LeQ/g in dB(A) Rischio 
+Minore di 80 
+Tra 80 e 85 
+Tra 85 e 87 
+Oltre 87 
+Lieve 
+Modesto 
+Significativo 
+Grave 
+2. Obblighi del datore di lavoro 
+ Eliminare i rischi alla fonte o ridurli al minimo, mantenendo i livelli al di sotto dei limiti 
+di esposizione. 
+ Fornire dispositivi di protezione individuale per l’udito quando non è possibile 
+eliminare il rischio. 
+ Informare e formare i lavoratori esposti a valori ≥ 80 dB(A) su: 
+o La natura dei rischi derivanti dall’esposizione a rumore. 
+o Le misure adottate per ridurre il rischio. 
+o L’uso corretto dei DPI e le procedure per lavorare in sicurezza. 
+ Sottoporre a sorveglianza sanitaria i lavoratori esposti a valori > 85 dB(A). 
+3. Vibrazioni 
+Definizione 
+Le vibrazioni meccaniche sono movimenti oscillatori a carattere ripetitivo nel tempo. 
+Caratteristiche fisiche principali: 
+ Frequenza: numero di oscillazioni al secondo (Hz). 
+ Ampiezza: espressa come spostamento, velocità o accelerazione (m, m/s, m/s²). 
+Rischio per l’uomo 
+L’esposizione a vibrazioni meccaniche può costituire un fattore di rischio più o meno elevato in 
+base a: 
+ Caratteristiche fisiche delle vibrazioni. 
+ Direzione delle vibrazioni. 
+ Durata dell’esposizione. 
+4. Illustrazione 
+ L’immagine raffigura un paio di cuffie antirumore, simbolo di protezione acustica 
+obbligatoria in ambienti con esposizione a rumore elevato. 
+5. Esempi di domande che il chatbot può gestire 
+ Quali sono le soglie di rischio rumore secondo la normativa? 
+ Quando il datore di lavoro deve fornire protezioni acustiche? 
+ A quali valori scatta la sorveglianza sanitaria per il rumore? 
+ Cosa sono le vibrazioni meccaniche e quali parametri le caratterizzano? 
+ Perché la frequenza e l’ampiezza sono importanti nella valutazione del rischio 
+vibrazioni? 
+Vibrazioni: Tipologie, Contesti e Disturbi Indotti 
+(Manuale sui Rischi Specifici) 
+1. Categorie di vibrazioni 
+In base ai rischi e agli effetti prodotti, le vibrazioni si distinguono in: 
+ Vibrazioni trasmesse al sistema mano–braccio. 
+ Vibrazioni trasmesse al corpo intero. 
+2. Tipologie di esposizione 
+Tipo di 
+esposizione 
+Sistema 
+mano
+braccio 
+Corpo intero 
+Dove si riscontra 
+Lavorazioni in cui si impugnano utensili 
+vibranti o materiali sottoposti a vibrazioni 
+o impatti. 
+Lavorazioni a bordo di mezzi di 
+movimentazione usati in industria e 
+agricoltura, mezzi di trasporto e, in 
+generale, macchinari industriali vibranti 
+che trasmettono vibrazioni a tutto il corpo. 
+Come si riscontra 
+Contatto delle mani con 
+l’impugnatura di utensili 
+manuali o di macchinari 
+condotti a mano. 
+Utilizzo di mezzi di 
+trasporto o sollevamento. 
+Disturbi indotti - Disturbi 
+neurologici e 
+circolatori digitali. - Lesioni 
+osteoarticolari agli 
+arti superiori. - Cervico-brachiali. - Disturbi digestivi. - Problemi 
+circolatori. - Effetti cocleo
+vestibolari. - Effetti 
+sull’apparato 
+riproduttivo. - Traumi del 
+rachide lombare. 
+3. Illustrazione 
+La sequenza di immagini mostra: 
+ Operatori alla guida di mezzi soggetti a vibrazioni. 
+ Sintomi e disturbi come malessere fisico, dolori muscolari e problemi digestivi. 
+ Effetti a lungo termine delle vibrazioni croniche. 
+4. Esempi di domande che il chatbot può gestire 
+ Qual è la differenza tra vibrazioni mano–braccio e corpo intero? 
+ Quali sono i principali disturbi indotti dalle vibrazioni al sistema mano–braccio? 
+ Che rischi comportano le vibrazioni trasmesse al corpo intero? 
+ In quali contesti lavorativi si riscontra l’esposizione a vibrazioni corpo intero? 
+ Come si trasmettono le vibrazioni al corpo durante il lavoro? 
+Vibrazioni: Tipologie, Contesti e Disturbi Indotti 
+(Manuale sui Rischi Specifici) 
+1. Categorie di vibrazioni 
+In base ai rischi e agli effetti prodotti, le vibrazioni si distinguono in: 
+ Vibrazioni trasmesse al sistema mano–braccio. 
+ Vibrazioni trasmesse al corpo intero. 
+2. Tipologie di esposizione 
+Tipo di 
+esposizione 
+Sistema 
+mano
+braccio 
+Corpo intero 
+Dove si riscontra 
+Lavorazioni in cui si impugnano utensili 
+vibranti o materiali sottoposti a vibrazioni 
+o impatti. 
+Lavorazioni a bordo di mezzi di 
+movimentazione usati in industria e 
+agricoltura, mezzi di trasporto e, in 
+generale, macchinari industriali vibranti 
+che trasmettono vibrazioni a tutto il corpo. 
+Come si riscontra 
+Contatto delle mani con 
+l’impugnatura di utensili 
+manuali o di macchinari 
+condotti a mano. 
+Utilizzo di mezzi di 
+trasporto o sollevamento. 
+Disturbi indotti - Disturbi 
+neurologici e 
+circolatori digitali. - Lesioni 
+osteoarticolari agli 
+arti superiori. - Cervico-brachiali. - Disturbi digestivi. - Problemi 
+circolatori. - Effetti cocleo
+vestibolari. - Effetti 
+sull’apparato 
+riproduttivo. - Traumi del 
+rachide lombare. 
+3. Illustrazione 
+La sequenza di immagini mostra: 
+ Operatori alla guida di mezzi soggetti a vibrazioni. 
+ Sintomi e disturbi come malessere fisico, dolori muscolari e problemi digestivi. 
+ Effetti a lungo termine delle vibrazioni croniche. 
+4. Esempi di domande che il chatbot può gestire 
+ Qual è la differenza tra vibrazioni mano–braccio e corpo intero? 
+ Quali sono i principali disturbi indotti dalle vibrazioni al sistema mano–braccio? 
+ Che rischi comportano le vibrazioni trasmesse al corpo intero? 
+ In quali contesti lavorativi si riscontra l’esposizione a vibrazioni corpo intero? 
+ Come si trasmettono le vibrazioni al corpo durante il lavoro? 
+Valori limite di esposizione e valori di azione (Vibrazioni) + 
+Radiazioni Ottiche Artificiali (ROA) 
+1. Valori limite di esposizione e di azione per vibrazioni 
+Riferimento normativo: D. Lgs. 81/2008, Titolo VIII Agenti Fisici - Capo III, Protezione dei 
+lavoratori dai rischi di esposizione a vibrazioni. 
+La normativa stabilisce i valori di esposizione giornalieri (normalizzati a un periodo di 
+riferimento di 8 ore) e distingue: 
+ Valori limite → valori da non superare. 
+ Valori di azione → valori oltre i quali scatta l’obbligo di misure di tutela. 
+a) Vibrazioni trasmesse al sistema mano–braccio 
+ Valore limite giornaliero: 5 m/s² (periodi brevi: 20 m/s²). 
+ Valore di azione: 2,5 m/s². 
+b) Vibrazioni trasmesse al corpo intero 
+ Valore limite giornaliero: 1,0 m/s² (periodi brevi: 1,5 m/s²). 
+ Valore di azione: 0,5 m/s². 
+2. Radiazioni Ottiche Artificiali (ROA) 
+Le ROA comprendono le componenti dello spettro elettromagnetico: 
+ Lunghezza d’onda: minore dei campi elettromagnetici e maggiore delle radiazioni 
+ionizzanti. 
+ Bande spettrali: 
+o Infrarossi 
+o Visibile 
+o Ultravioletto 
+Anche le applicazioni laser rientrano nelle ROA: fasci con proprietà di monocromaticità, 
+coerenza, unidirezionalità e brillantezza. 
+Classificazione delle sorgenti di ROA: 
+ Coerenti: laser. 
+ Non coerenti: tutte le altre sorgenti. 
+Settori produttivi in cui si trovano: 
+ Metalmeccanica 
+ Chimica 
+ Sanità 
+ Ricerca 
+Rischi da Radiazioni Ottiche Artificiali (ROA) 
+1. Esposizioni a radiazioni non coerenti 
+Esempi di situazioni lavorative in cui possono verificarsi: 
+ Radiazioni infrarosse: 
+o Vicinanza a riscaldatori radianti 
+o Forni di fusione metalli e vetro 
+o Lampade per riscaldamento a incandescenza 
+ Radiazioni visibili: 
+o Esposizione a sorgenti di illuminazione artificiale (lampade ad alogeni metallici, 
+al mercurio, sistemi LED, ecc.) 
+o Lampade per uso medico o estetico 
+o Operazioni di saldatura 
+ Radiazioni ultraviolette: 
+o Operazioni di sterilizzazione 
+o Essiccazione di inchiostri e vernici 
+o Fotoincisione 
+o Controlli difetti di fabbricazione 
+o Fototerapia dermatologica 
+o Abbronzatura estetica 
+o Operazioni di laboratorio e saldatura 
+2. Esempi di applicazioni laser 
+ Lavorazioni di materiali: taglio, saldatura, marcatura, incisione 
+ Applicazioni mediche e estetiche 
+ Telecomunicazioni 
+ Informatica, metrologia e misure 
+ Laboratori di ricerca 
+ Produzione di beni di consumo (es. lettori CD, barcode scanner) 
+ Intrattenimento (laser per discoteche e concerti) 
+3. Rischi per la salute e la sicurezza 
+ Per la salute: 
+o Occhi: possibili lesioni a congiuntiva, cornea, cristallino, retina 
+o Cute: eritemi, bruciature, tumori 
+ Per la sicurezza: 
+o Abbagliamenti/accecamenti temporanei 
+o Rischi di incendio ed esplosione da sorgenti o fasci di radiazione 
+ Altri rischi legati alle apparecchiature/lavorazioni con ROA: 
+o Stress termico 
+o Contatto con parti calde 
+o Rischi di natura elettrica 
+4. Nota importante 
+Le sorgenti laser possono generare radiazioni di elevatissima intensità, con possibili danni 
+gravissimi. 
+Campi Elettromagnetici (CEM) 
+1. Identificazione dell’esposizione e valutazione dei rischi 
+Riferimento normativo: art. 216 – D.Lgs. 81/2008 e s.m.i. 
+"Il datore di lavoro valuta e, quando necessario, misura e/o calcola i livelli delle radiazioni 
+ottiche a cui possono essere esposti i lavoratori", in conformità alle norme e raccomandazioni 
+CIE e CEN per radiazioni non coerenti e alle norme IEC per radiazioni laser. 
+2. Definizione di Campi Elettromagnetici (CEM) 
+ I CEM sono un agente fisico di rischio moderno, derivante da: 
+o Energia elettrica 
+o Teleradiocomunicazioni 
+ Un campo elettromagnetico è la propagazione nello spazio di campi elettrici e 
+magnetici variabili nel tempo. 
+ Si genera quando c’è una variazione di un campo elettrico o magnetico, propagandosi a 
+partire dalla sorgente. 
+3. Propagazione ed effetti 
+ Il trasferimento di energia può avvenire: 
+o Nello spazio libero (via etere) 
+o In modo confinato con linee di trasmissione dedicate (guide d’onda, cavi 
+coassiali, ecc.) 
+ Intervallo di frequenze considerato: 
+o Da 0 Hz a 300 GHz 
+4. Principali sorgenti di CEM 
+1. Elettrodotti 
+o Trasportano energia elettrica dalle centrali agli utenti 
+o Frequenze estremamente basse (ELF – Extra Low Frequency) → 50-60 Hz 
+2. Impianti di ricetrasmissione radio/TV 
+o Radiofrequenze (RF) comprese tra 300 kHz e 300 MHz 
+3. Impianti di telefonia cellulare e ponti radio 
+o Microonde con frequenze tra 300 MHz e 300 GHz 
+Classi di lavoratori a rischio (Campi Elettromagnetici) 
+1. Classi di rischio 
+Sono individuabili ovunque siano presenti fonti di emissione elettromagnetica. 
+Si distinguono due categorie principali: 
+a) Rischio generico 
+ Riguarda tutti i lavoratori che: 
+o Utilizzano apparecchiature alimentate a corrente elettrica. 
+o Operano in luoghi situati vicino ad antenne radiobase o elettrodotti. 
+b) Rischio specifico 
+ Riguarda lavoratori che utilizzano quotidianamente fonti di emissione di campi 
+elettromagnetici, in particolare: 
+o Sistemi per saldatura dielettrica e trattamenti termici ad induzione 
+elettromagnetica. 
+o Apparati elettromedicali per diatermia, risonanza magnetica, chirurgia con 
+elettrobisturi ad alta frequenza (esposizione di pazienti, personale medico, 
+infermieristico e tecnico). 
+o Apparecchiature scientifiche (spettrografi magnetici, ciclotroni, sistemi di 
+perfusione nucleare). 
+o Apparecchiature per la disinfestazione delle granaglie. 
+o Sistemi di broadcasting. 
+o Impianti di telefonia cellulare. 
+o Utilizzo di telefoni cellulari. 
+o Apparecchiature wafers (microchip di memoria RF). 
+2. Fonti di emissione a basse frequenze 
+ Apparecchiature per l’essiccazione della ceramica. 
+ Apparecchiature presenti nelle cabine di conduzione dei treni. 
+3. Lavoratori particolarmente a rischio 
+Categoria 
+Portatori di dispositivi medici 
+impiantabili attivi 
+Portatori di dispositivi medici 
+impiantabili passivi contenenti metallo 
+Portatori di dispositivi medici indossati 
+sul corpo 
+Lavoratrici in gravidanza 
+Esempi 
+Stimolatori cardiaci, defibrillatori cardiaci, impianti cocleari, 
+protesi dell’orecchio interno. 
+Protesi articolari, chiodi, piastre, viti, clip chirurgiche, clip per 
+aneurisma, stent, protesi valvolari cardiache. 
+Pompe esterne per infusione di ormoni. 
+— 
+Regole di radioprotezione e identificazione dei rischi (Campi 
+Elettromagnetici) 
+1. Regole generali di radioprotezione 
+ Rispetto della segnaletica: attenersi sempre alle indicazioni riportate sui cartelli fissi di 
+avviso. 
+ Mantenere la distanza: stare lontani da oggetti o apparecchiature elettriche in funzione. 
+ Non toccare oggetti non noti: evitare di toccare o avvicinare troppo la testa a 
+apparecchiature elettriche sconosciute. 
+ Evitare l’uso inutile di apparecchiature: non lasciare apparecchiature elettriche in 
+funzione senza necessità o utilità diretta. 
+ Efficienza degli impianti: mantenere in buono stato di efficienza i sistemi di sicurezza, i 
+collegamenti elettrici, i cavi di alimentazione e di messa a terra. 
+ Interferenze del cellulare: fare attenzione alle possibili interferenze tra telefoni cellulari 
+e altri dispositivi elettrici. 
+2. Identificazione dell’esposizione e valutazione dei rischi 
+(Art. 219 – D.Lgs. 81/2008 e s.m.i) 
+Il datore di lavoro deve: 
+1. Valutare, misurare e/o calcolare i livelli di campi elettromagnetici (CEM) a cui i 
+lavoratori sono esposti. 
+2. Effettuare le misurazioni e i calcoli in conformità alle norme europee standardizzate dal 
+CENELEC (Comitato Europeo di Normalizzazione Elettrotecnica). 
+3. In assenza di norme che coprano tutte le situazioni pertinenti: 
+o Adottare buone prassi emanate dalla Commissione consultiva permanente per 
+la prevenzione degli infortuni e l’igiene del lavoro. 
+o In alternativa, seguire le indicazioni del Comitato Elettrotecnico Italiano (CEI). 
+4. Considerare, se necessario, i livelli di emissione indicati dai fabbricanti delle 
+attrezzature. 
+Regole generali di radioprotezione 
+ Rispetto della segnaletica: seguire le indicazioni riportate sulla segnaletica fissa. 
+ Mantenere la distanza: stare lontani da oggetti o apparecchiature elettriche in funzione. 
+ Non toccare oggetti elettrici non noti: evitare di avvicinarsi troppo con la testa o di 
+toccare elementi non conosciuti. 
+ Evitare l’uso inutile di apparecchiature elettriche: non lasciare accese apparecchiature 
+senza necessità o utilità diretta. 
+ Mantenere in efficienza i sistemi di sicurezza: assicurare il corretto funzionamento 
+delle sicurezze, dei collegamenti elettrici, dei cavi di alimentazione e di messa a terra. 
+ Attenzione alle interferenze dei cellulari: prevenire possibili interferenze tra telefoni 
+cellulari e altre apparecchiature elettriche. 
+Identificazione dell’esposizione e valutazione dei rischi 
+(art. 219 – D.Lgs. 81/2008 e s.m.i.) 
+“Il datore di lavoro valuta e, quando necessario, misura o calcola i livelli di CEM ai quali sono 
+esposti i lavoratori. 
+La valutazione, la misurazione e il calcolo devono essere effettuati in conformità alle norme 
+europee standardizzate del Comitato europeo di normalizzazione elettrotecnica (CENELEC). 
+Finché le norme citate non avranno contemplato tutte le pertinenti situazioni, il datore di lavoro 
+adotta le specifiche buone prassi individuate o emanate dalla Commissione consultiva 
+permanente per la prevenzione degli infortuni e per l’igiene del lavoro, oppure quelle del 
+Comitato Elettrotecnico Italiano (CEI), considerando, se necessario, i livelli di emissione 
+indicati dai fabbricanti delle attrezzature.” 
+Movimentazione Manuale dei Carichi (MMC) 
+La MMC è un’operazione di trasporto o di sostegno di un carico svolta da uno o più 
+lavoratori. 
+Operazioni di MMC 
+Le azioni che rientrano nella movimentazione manuale dei carichi sono: 
+ Sollevare 
+ Deporre 
+ Spingere 
+ Tirare 
+ Portare o spostare un carico 
+Definizione di MMC 
+Per MMC si intende: 
+1. Solo attività lavorativa a rischio, non qualsiasi sollevamento, trazione o trasporto di 
+masse. 
+2. Non tutte le attività di MMC, ma soltanto quelle con caratteristiche di pericolosità o 
+che si svolgono in condizioni ergonomiche sfavorevoli per sicurezza e salute. 
+Queste condizioni possono comportare rischi di patologie alle strutture osteoarticolari, 
+muscolotendinee e nervo-vascolari, in particolare a livello dorso-lombare. 
+Nota di rilievo 
+La Movimentazione Manuale dei Carichi rientra tra le attività lavorative a rischio di 
+malattia professionale. 
+I principali rischi 
+La Movimentazione Manuale dei Carichi (MMC) può causare infortuni (lesioni traumatiche 
+quali ferite, contusioni, distrazioni, fratture, ecc.) con varie modalità e per diverse cause, ad 
+esempio quando: 
+ i materiali si afferrano con difficoltà o sono scivolosi; 
+ le superfici siano irregolari o taglienti; 
+ si verifica scivolamento o inciampo (calzature, pavimento, ostacoli); 
+ avviene collisione con oggetti non visti; 
+ si subisce stress meccanico da carichi eccessivi; 
+ c’è investimento da parte di carichi; 
+ si cade dall’alto per perdita di equilibrio mentre si movimentano i carichi. 
+Caratteristiche del sistema interattivo uomo–carichi
+ambiente 
+Caratteristiche del carico 
+Un carico può comportare rischi propri di una MMC quando: 
+ è troppo pesante (> 25 kg per maschi adulti, 20 kg per donne adulte); 
+ è ingombrante o difficile da afferrare; 
+ è in equilibrio instabile o il contenuto rischia di spostarsi; 
+ è collocato in una posizione che costringe a tenerlo o maneggiarlo lontano dal tronco o 
+con torsione/inclinazione del tronco; 
+ per la sua struttura esterna e/o consistenza, può causare lesioni, soprattutto in caso di 
+urto. 
+Tabella – Massa di riferimento per popolazione lavorativa 
+Popolazione lavorativa 
+Maschi (18-45 anni) 
+Femmine (18-45 anni) 
+Maschi giovani (fino a 18 anni) ed anziani (oltre 45 anni) 
+Massa di riferimento (kg) 
+25 
+20 
+20 
+Femmine giovani (fino a 18 anni) ed anziane (oltre 45 anni) 15 
+Sforzo Fisico 
+Può comportare rischi propri di una Movimentazione Manuale dei Carichi (MMC) quando: 
+ è eccessivo; 
+ può essere effettuato soltanto con un movimento di torsione del tronco; 
+ può comportare un movimento brusco del carico; 
+ è compiuto con il corpo in posizione instabile. 
+Ambiente di Lavoro 
+Le caratteristiche dell’ambiente di lavoro possono aumentare il rischio quando: 
+ lo spazio libero, in particolare verticale, è insufficiente; 
+ il pavimento è irregolare (rischi di inciampo, scivolamento); 
+ il posto o l’ambiente di lavoro non consentono al lavoratore di operare ad un’altezza di 
+sicurezza o in buona posizione; 
+ il pavimento o il piano di lavoro presenta dislivelli che implicano la manipolazione del 
+carico a livelli diversi; 
+ il pavimento o il punto di appoggio sono instabili; 
+ la temperatura, l’umidità o la circolazione dell’aria sono inadeguate. 
+Esigenze connesse alla natura dell’attività 
+L’attività è a rischio quando comporta: 
+ sforzi fisici che sollecitano in particolare la colonna vertebrale, troppo frequenti o 
+prolungati; 
+ periodo di riposo fisiologico o di recupero insufficiente; 
+ distanze troppo grandi di sollevamento, abbassamento o trasporto; 
+ ritmo imposto da un processo che non può essere modulato dal lavoratore. 
+Fattori individuali di rischio 
+Il lavoratore può correre un rischio nelle ipotesi di: 
+ inidoneità fisica allo svolgimento della MMC; 
+ indumenti, calzature o effetti personali inadeguati portati dal lavoratore; 
+ insufficienza o inadeguatezza delle conoscenze o della formazione professionale. 
+Procedura per sollevare correttamente un carico 
+1. Posizionare i piedi 
+o Mettere i piedi ai lati del carico in modo che il baricentro del corpo sia il più 
+allineato possibile al baricentro del corpo da sollevare. 
+2. Afferrare il carico 
+o Prendere il carico in modo sicuro, evitando che possano insorgere problemi di 
+presa durante le fasi di sollevamento e trasporto. 
+3. Chinarsi correttamente 
+o Piegare le gambe per avvicinarsi al carico. 
+o Mantenere la schiena dritta e il tronco eretto, senza incurvare le spalle. 
+4. Trasportare il carico 
+o Tenere il carico vicino al corpo, con spalle e schiena dritte. 
+o Movimentare i carichi per brevi periodi e brevi distanze, oppure fare pause 
+adeguate per il recupero. 
+Obblighi del datore di lavoro 
+(rif. art 168 D.Lgs. 81/2008 e s.m.i) 
+1. Il datore di lavoro adotta le misure organizzative necessarie e ricorre ai mezzi appropriati, 
+in particolare attrezzature meccaniche, per evitare la necessità di una movimentazione 
+manuale dei carichi da parte dei lavoratori. 
+2. Qualora non sia possibile evitare la movimentazione manuale dei carichi ad opera dei 
+lavoratori, il datore di lavoro adotta le misure organizzative necessarie, ricorre ai mezzi 
+appropriati e fornisce ai lavoratori stessi i mezzi adeguati, allo scopo di ridurre il rischio 
+che comporta la movimentazione manuale di detti carichi. 
+In particolare: 
+a) Organizza i posti di lavoro in modo che detta movimentazione assicuri condizioni di sicurezza 
+e salute. 
+b) Valuta, se possibile anche in fase di progettazione, le condizioni di sicurezza e di salute 
+connesse al lavoro in questione. 
+c) Evita o riduce i rischi, particolarmente di patologie dorso-lombari, adottando le misure 
+adeguate, tenendo conto in particolare dei fattori individuali di rischio, delle caratteristiche 
+dell’ambiente di lavoro e delle esigenze che tale attività comporta. 
+d) Sottopone i lavoratori alla sorveglianza sanitaria, sulla base della valutazione del rischio e dei 
+fattori individuali di rischio. 
+VIDEOTERMINALI (VDT) 
+Definizione (art. 173 D.Lgs. 81/2008 e s.m.i) 
+a) Videoterminale: uno schermo alfanumerico o grafico, a prescindere dal tipo di procedimento 
+di visualizzazione utilizzato. 
+b) Posto di lavoro: l’insieme che comprende le attrezzature munite di videoterminale, 
+eventualmente con tastiera ovvero altro sistema di immissione dati, incluso il mouse, il software 
+per l’interfaccia uomo-macchina, gli accessori opzionali, le apparecchiature connesse (unità a 
+dischi, telefono, modem, stampante, supporto per documenti), la sedia, il piano di lavoro, nonché 
+l’ambiente di lavoro immediatamente circostante. 
+c) Lavoratore: colui che utilizza un’attrezzatura munita di videoterminali, in modo sistematico o 
+abituale, per venti ore settimanali, dedotte le interruzioni. 
+In assenza di una disposizione contrattuale riguardante l’interruzione, il lavoratore ha diritto ad 
+una pausa di 15 minuti ogni 120 minuti di applicazione continuativa al videoterminale. 
+I rischi per la salute 
+I videoterminali di per sé non comportano rischi per la salute dell’utilizzatore; è il loro uso 
+scorretto che può far emergere diversi disturbi. 
+Per ridurre al minimo i rischi derivati è necessario che l’utilizzatore: 
+ sia formato e informato adeguatamente; 
+ sia addestrato all’uso delle attrezzature; 
+ disponga di postazioni ergonomiche progettate con disposizione corretta di 
+videoterminali e arredi e con periodi di pausa programmati. 
+Disturbi oculo-visivi (astenopia) 
+L’uso prolungato del VDT affatica l’apparato visivo, poiché vengono sollecitati i muscoli 
+oculari responsabili della messa a fuoco delle immagini. 
+ Mettere a fuoco un oggetto vicino è più impegnativo per i muscoli oculari. 
+ Mettere a fuoco un oggetto lontano, invece, rilassa i muscoli e crea una condizione di 
+riposo per l’occhio. 
+Altre cause di affaticamento possono essere ricondotte ad un errato posizionamento del VDT 
+rispetto a finestre o altre fonti di luce che causano abbagliamenti e riflessi, a condizioni 
+inadeguate di illuminazione, a condizioni ambientali non favorevoli (temperature non consone, 
+correnti d’aria, ecc.), a difetti visivi preesistenti non o mal corretti, nonché all’utilizzo di 
+apparecchiature obsolete che mancano di software aggiornati in grado di permettere una buona 
+visualizzazione dei caratteri e un buon contrasto rispetto allo sfondo. 
+Disturbi muscolo-scheletrici 
+L’uso prolungato del VDT comporta movimenti ripetitivi ed incessanti che sono innaturali 
+rispetto al normale alternarsi delle contrazioni e dei rilassamenti dei muscoli. 
+Tali movimenti: 
+ riducono l’afflusso di sangue, 
+ determinano riduzione dei prodotti di scarto, 
+ aumentano la produzione di acido lattico → creando senso di affaticamento. 
+Mantenere una posizione statica da seduti è un fattore di rischio per la colonna vertebrale e in 
+particolare per i dischi intervertebrali, che rappresentano gli “ammortizzatori”. 
+ Il movimento nutre correttamente i dischi e rallenta i processi degenerativi. 
+ La staticità, invece, causa disturbi alla nuca, spalle, arti superiori e tratto lombare e 
+dorsale della colonna vertebrale. 
+Posture sbagliate, postazioni non ergonomiche e movimenti ripetitivi aumentano il rischio. 
+Inoltre responsabili della comparsa di tendiniti, infiammazioni che causano forti dolori 
+principalmente a braccia e polsi fino alla cosiddetta “sindrome del tunnel carpale”, che 
+comporta una dolorosa compressione del nervo mediano del polso con indolenzimento, torpore e 
+perdita di forza nelle mani. 
+Affaticamento mentale 
+L’affaticamento mentale, meglio conosciuto come stress, è un disturbo derivato principalmente 
+dalla monotonia e dalla ripetitività di operazioni protratte per lunghi periodi e da un ambiente 
+di lavoro non sempre adatto: condizioni che influenzano la sfera psicologica della persona. 
+A causa del veloce progredire della tecnologia, è possibile che gli utenti meno esperti e poco 
+avvezzi all’uso del computer possano avere difficoltà ad usare la macchina: 
+ per paura di non essere liberi di determinare tempi e processi di lavoro, 
+ per paura di perdere i dati, 
+ per incapacità di utilizzare determinati software, 
+ oppure perché il carico di lavoro è troppo grande o, al contrario, troppo scarso. 
+Utilizzo corretto dei VDT 
+Prima di iniziare a lavorare al videoterminale occorre sistemare la propria postazione di lavoro 
+posizionando correttamente la tastiera, il mouse ed il video. 
+ La tastiera deve essere collocata ad una distanza di circa 15 cm dal bordo del piano di 
+lavoro per consentire di appoggiare correttamente gli avambracci. 
+ Il video deve essere sistemato ad una distanza di 50-70 cm dagli occhi e ad un’altezza 
+tale per cui lo sguardo sia diretto al centro dello schermo e sia inclinato verso il basso 
+all’incirca di 30°. 
+Deve essere posizionato adeguatamente per evitare fenomeni di abbagliamento e riflessi 
+provenienti da fonti di luce di diversa natura. L’importante è regolare la luminosità e il contrasto 
+dello schermo per adattarli alle condizioni di illuminazione presenti. 
+Sistemare il computer, il video e la tastiera evitando l’uso di prolunghe (meglio far uso di una 
+presa ancorata a parete) e comunque sempre lontano da aree di passaggio. 
+Regolare il sedile ad una giusta altezza in modo tale che le gambe formino un angolo di 90° 
+rispetto al piano di calpestio: lo schienale deve formare con il sedile stesso un angolo di circa 
+110°. 
+Regolare l’altezza dello schienale in modo da sostenere l’intera zona lombare. 
+Nel caso si faccia uso del leggio portadocumenti, questo deve essere collocato alla stessa 
+distanza visiva dello schermo. 
+Distogliere periodicamente lo sguardo dallo schermo per guardare oggetti lontani in modo da 
+poter rilassare i muscoli oculovisivi e ridurre l’affaticamento; è consigliato alternare il lavoro al 
+VDT a momenti in cui si rilassano anche le braccia e la schiena. 
+Mantenere pulita la postazione di lavoro ed in particolare lo schermo, la tastiera ed il mouse, che 
+vanno puliti regolarmente. 
+SOSTANZE PERICOLOSE 
+IL RISCHIO CHIMICO 
+Si può definire come l’insieme dei rischi connessi all’attività lavorativa svolta in ambienti in cui 
+sono utilizzati agenti chimici, o se ne prevede l’utilizzo, in ogni tipo di procedimento, compresi 
+la produzione, la manipolazione, l’immagazzinamento, il trasporto o l’eliminazione e il 
+trattamento dei rifiuti, o che risultino da tale attività lavorativa. 
+Il rischio chimico si concretizza al momento in cui sul posto di lavoro sono presenti 
+contemporaneamente: 
+ l’agente chimico (legato al processo lavorativo); 
+ le condizioni (legate alle modalità operative che possono portare il lavoratore nel campo 
+d’azione dell’agente chimico). 
+Per costituire un rischio per la salute o per la sicurezza del lavoratore è necessario un 
+contatto diretto o un’interazione fra l’agente chimico (pericoloso) e l’organismo. 
+Gli agenti chimici, a seconda della loro classificazione, possono essere pericolosi per diversi 
+motivi (infiammabili, esplosivi, combustibili, corrosivi, irritanti, nocivi, tossici o pericolosi per 
+l’ambiente, ecc.) e produrre danni alla salute, per esposizione diretta o indiretta per via 
+respiratoria (quali: polveri, fumi, nebbie, gas e vapori) e/o per assorbimento attraverso la 
+cute e/o contatto attraverso la pelle o gli occhi, e alla sicurezza dei lavoratori in considerazione 
+delle: 
+ caratteristiche individuali dei soggetti (sesso, età, condizioni di ipersuscettibilità 
+ereditarie o acquisite, ecc.); 
+ diversa risposta di ogni individuo agli agenti chimici. 
+Manuale sui RISCHI SPECIFICI 
+ differenza di genere; 
+ contemporanea esposizione ad altre sostanze o preparati chimici; 
+ caratteristiche esterne (ambientali). 
+Valutazione dei rischi 
+(rif. art. 223 D.Lgs. 81/2008 e s.m.i) 
+Il datore di lavoro determina preliminarmente l’eventuale presenza di agenti chimici pericolosi 
+sul luogo di lavoro e valuta anche i rischi per la sicurezza e la salute dei lavoratori derivanti dalla 
+presenza di tali agenti, prendendo in considerazione in particolare: 
+ le loro proprietà pericolose; 
+ le informazioni sulla salute e sicurezza comunicate dal responsabile dell’immissione sul 
+mercato tramite la relativa scheda di sicurezza; 
+ il livello, il modo e la durata dell’esposizione; 
+ le circostanze in cui viene svolto il lavoro in presenza di tali agenti, tenuto conto della 
+quantità delle sostanze e dei preparati che li contengono o li possono generare; 
+ i valori limite di esposizione professionale o i valori limite biologici; 
+ gli effetti delle misure preventive e protettive adottate o da adottare; 
+ se disponibili, le conclusioni tratte da eventuali azioni di sorveglianza sanitaria già 
+intraprese. 
+Regole generali di prevenzione e protezione 
+Conoscere le caratteristiche di pericolosità degli agenti chimici è indispensabile perché 
+possano essere impiegate limitando il rischio per i lavoratori al livello più basso possibile. 
+ Leggere le etichette apposte sui prodotti e le schede di sicurezza allegate. 
+ Evitare spandimenti dei prodotti, urti, sfregamenti e cadute. 
+ Usare cautela nel caso di vicinanza del prodotto a fonti di calore, scintille, fiamme libere; 
+la sostanza può essere pericolosa anche oltre le indicazioni fornite. 
+Collana PREVENZIONE E PROTEZIONE 
+del fornitore, dato che le etichette riguardano le caratteristiche del prodotto nella forma in cui 
+viene commercializzato. 
+ Evitare quindi ogni miscelazione senza prima verificare la compatibilità delle sostanze. 
+ Utilizzare solo recipienti idonei allo stoccaggio, puliti, che siano a tenuta ed etichettati in 
+maniera leggibile. 
+ Non usare recipienti usati o sporchi: potrebbero contenere sostanze incompatibili. 
+ Controllare le apparecchiature di lavoro e il microclima. 
+ Verificare la compartimentazione delle aree a rischio. 
+ Avvisare chi di competenza in caso di inadempimento delle norme di sicurezza. 
+ Se non reca danno alla produttività sostituire l’agente chimico con uno meno pericoloso. 
+ Sviluppare metodi di lavoro oculati al fine di diminuire il numero degli esposti, le 
+quantità manipolate e il tempo d’esposizione. 
+ Non conservare quantitativi di prodotti chimici maggiori delle reali esigenze lavorative. 
+ Non lasciare contenitori con sostanze pericolose in luoghi inadeguati, dove possano 
+essere accessibili a personale non informato e formato. 
+ Non entrare in luoghi con scarso ricambio d’aria senza aver prima verificato l’assenza di 
+inquinanti e la presenza di un quantitativo di ossigeno idoneo. 
+Manuale sui RISCHI SPECIFICI 
+Le etichette dei prodotti chimici 
+Una delle regole più importanti è conoscere il prodotto chimico che si sta manopolando. 
+L’etichettatura e le schede di sicurezza che accompagnano i prodotti chimici pericolosi sono 
+un’importante fonte d’informazione sulla loro pericolosità; per saperle leggere bene occorre 
+familiarizzare con le modalità che la comunità internazionale si è data per identificare e 
+classificare le sostanze chimiche. 
+I prodotti chimici sono etichettati allo scopo di informare sui rischi a cui si è esposti e sui 
+danni a cui si può andare incontro per la salute, per l’ambiente e per i beni. 
+Oltre che i pericoli, le etichette indicano anche le precauzioni da prendere per il loro utilizzo, 
+conservazione e smaltimento e su cosa fare in caso di incidente o infortunio causati dal loro 
+uso. 
+Il Regolamento CE n. 1272/2008, denominato CLP (Classification, Labelling and Packaging), 
+entrato in vigore nell’Unione Europea nel gennaio 2009, norma la classificazione, l’imballaggio 
+e l’etichettatura delle sostanze chimiche e delle loro miscele in funzione delle loro proprietà 
+chimico-fisiche, tossicologiche ed ecotossicologiche e la loro successiva etichettatura per 
+permettere l’immissione in tutto il mercato europeo. 
+Cambiano nelle etichette per le sostanze chimiche in commercio, i pittogrammi (simboli), le 
+nuove indicazioni di pericolo (Frasi H paragonabili alle attuali R) e i consigli di prudenza 
+(Frasi P, paragonabili alle attuali S). 
+I vecchi e i nuovi pittogrammi di pericolo 
+PERICOLI 
+Pericolo di esplosione 
+Questi prodotti possono esplodere a contatto di una fiamma, di una scintilla, di elettricità statica, 
+sotto l’effetto del calore, di uno choc, di uno sfregamento. 
+(Simbolo vecchio: esplosione / Simbolo nuovo: bomba esplosiva) 
+Pericolo di incendio 
+Questi prodotti possono infiammarsi a contatto di una fiamma, di una scintilla, di elettricità 
+statica, sotto l’effetto del calore o di sfregamenti. 
+(Simbolo vecchio: fiamma / Simbolo nuovo: fiamma) 
+Prodotti comburenti 
+Questi prodotti possono provocare o aggravare un incendio, o anche provocare un’esplosione se 
+sono in presenza di prodotti infiammabili o combustibili. 
+(Simbolo vecchio: cerchio con fiamma / Simbolo nuovo: cerchio con fiamma) 
+Gas sotto pressione 
+Questi prodotti sono gas sotto pressione in un recipiente e possono esplodere per l’effetto del 
+calore. Si tratta di gas compressi, di gas liquefatti e di gas disciolti. I gas liquefatti possono, 
+quando tali, essere responsabili di bruciature o lesioni legate al freddo, dette criogeniche. 
+(Nuovo pericolo classificato e indicato da nuovo pittogramma) 
+Pericolo di tossicità acuta 
+Questi prodotti avvelenano rapidamente anche con una bassa dose. Possono provocare effetti 
+molto vari sull’organismo: nausea, vomito, mal di testa, perdita di conoscenza o altri disturbi 
+importanti compresa la morte. Questi prodotti possono esercitare la loro tossicità per via orale, 
+inalatoria e cutanea. 
+(Simbolo vecchio: teschio e tibie incrociate / Simbolo nuovo: teschio e tibie incrociate) 
+Pericoli gravi per la salute 
+Questi prodotti possono: 
+ provocare il cancro (cancerogeni); 
+ modificare il DNA delle cellule e quindi provocare dei danni sulla persona esposta o sulla 
+sua discendenza (mutageni); 
+ avere degli effetti nefasti sulla riproduzione e sul feto (tossici per la riproduzione); 
+ modificare il funzionamento di certi organi come il fegato, il sistema nervoso, sia se si è 
+stati esposti una sola volta o meglio a più riprese; 
+ provocare degli effetti sui polmoni, e che possono essere mortali se penetrano nelle vie 
+respiratorie (dopo essere passati per la bocca o il naso o meglio quando li si vomitano); 
+ provocare allergie respiratorie (asma). 
+(Pericoli già classificati indicati con nuovo pittogramma: sagoma con stella sul petto) 
+Pericoli per la salute 
+Questi prodotti chimici possono: avvelenare a una dose elevata, provocare allergie cutanee o 
+causare sonnolenza o vertigini, provocare una reazione infiammatoria per gli occhi, la gola, il 
+naso o la pelle a seguito del loro contatto diretto, prolungato o ripetuto con la pelle e le mucose. 
+(Simbolo vecchio: X / Simbolo nuovo: punto esclamativo) 
+Pericolo di corrosione 
+Questi prodotti sono corrosivi perché attaccano o distruggono i metalli e corrodono la pelle o gli 
+occhi in caso di contatto o di proiezione. 
+(Simbolo vecchio: liquido su mano e metallo / Simbolo nuovo: stesso simbolo in cornice 
+romboidale) 
+Pericoli per l’ambiente 
+Questi prodotti provocano effetti nefasti sugli organismi dell’ambiente acquatico (pesci, 
+crostacei, …) e sullo strato dell’ozono. 
+(Simbolo vecchio: albero e pesce morto / Simbolo nuovo: stesso simbolo in cornice romboidale) 
+AGENTI BIOLOGICI 
+RISCHIO BIOLOGICO IN AMBIENTE NON SANITARIO / NEGLI UFFICI 
+Si definisce agente biologico qualsiasi microrganismo, anche se geneticamente modificato, 
+coltura endocellulare o parassita umano che potrebbe provocare infezioni, allergie o 
+intossicazioni. 
+Sorgenti di rischio d’esposizione ad agenti biologici 
+L’esposizione agli agenti biologici si verifica ogni qual volta un soggetto venga a contatto, per 
+inalazione di bioaerosol o contatto con superfici od oggetti contaminati, sul luogo di lavoro con: 
+ materiali naturali o di natura organica, quali terra, argilla, derivati da piante (fieno, 
+paglia, cotone); 
+ derivati di origine animale (pelo, cuoio, pelle, lana, ecc.); 
+ generi alimentari (formaggi, yogurt, zuccheri, insaccati, vino, birra, ecc.); 
+ polveri organiche (farina, polveri di origine animale, polveri prodotte dalla carta); 
+ rifiuti / acque di scarico; 
+ materiale documentale, arredi, tendaggi, polvere, impianti di climatizzazione. 
+Le modalità con cui avviene la trasmissione delle infezioni occupazionali sono diverse a seconda 
+della mansione svolta, delle caratteristiche dell’ambiente di lavoro e dei microrganismi implicati. 
+È possibile individuare due diverse tipologie di rischio biologico in ambito occupazionale: 
+ rischio biologico generico: presente in tutti gli ambienti di lavoro; 
+ rischio biologico specifico: proprio della mansione svolta, a sua volta distinguibile in: 
+o rischio biologico deliberato: si manifesta quando una determinata attività 
+prevede l’uso deliberato, intenzionale, di agenti biologici, per esempio si... 
+(continua nella pagina successiva) Usa un microrganismo nella produzione di 
+generi alimentari; in tal caso l’agente biologico è ben noto e viene 
+intenzionalmente introdotto nel ciclo lavorativo per essere trattato, manipolato, 
+trasformato o per sfruttarne le proprietà biologiche. 
+ Rischio biologico potenziale: deriva da una esposizione non intenzionale, potenziale ad 
+agenti biologici; per es. separazione dei rifiuti o attività agricole. 
+Effetti sulla salute 
+Il rischio biologico rappresenta la possibilità di ammalarsi in conseguenza dell’esposizione a 
+materiali o fluidi potenzialmente infetti; gli agenti biologici possono provocare tre tipi di 
+malattie: 
+ infezioni provocate da parassiti, virus o batteri; 
+ allergie scatenate dall’esposizione a muffe, polveri di natura organica come polveri di 
+farina, polveri di origine animale, enzimi ed acari; 
+ avvelenamento o effetti tossico genici. 
+Misure di prevenzione e protezione 
+Formazione e sensibilizzazione sulle corrette prassi igieniche; il lavoratore deve essere 
+correttamente informato e formato sul corretto utilizzo di tutte le misure di prevenzione e 
+protezione in relazione alla mansione svolta: 
+ adeguate procedure di pulizia degli ambienti, riduzione polvere; 
+ microclima confortevole (ventilazione, idoneo numero di ricambi d’aria); 
+ adeguata manutenzione degli impianti aeraulici e idrici; 
+ monitoraggi ambientali periodici per controllare la qualità dell’aria, delle superfici e della 
+polvere; 
+ all’inizio di ogni attività lavorativa a rischio occorre proteggersi in modo adeguato; 
+ ogni dispositivo risulta sicuro ed efficace nell’impedire il contatto tra i microrganismi e 
+l’uomo solo se possiede determinate caratteristiche, definite da norme tecniche e dal 
+marchio CE. 
+La percezione dello stress varia da persona a persona e in rapporto alle 
+situazioni e alle circostanze in cui ci si trova. 
+Se gli stimoli comportano una domanda che supera la capacità di risposta dell’individuo si crea 
+una tensione al riequilibrio che può essere: 
+ Positiva quando l’individuo stesso è in grado di migliorare la propria risposta (eustress: 
+uno o più stimoli, anche di diversa natura, che allenano la capacità di adattamento 
+psicofisico individuale); 
+ Negativa quando non è in grado di farlo (distress: uno o più stimoli che inducono un 
+logorio progressivo fino alla rottura delle difese psicofisiche). 
+Quando tali richieste e aspettative sono riferite al lavoro, allora lo stress riguarda l’ambito 
+lavorativo. 
+Il distress 
+Ha origine dalla sensazione individuale, stato di eccitazione e di tensione continua e sgradevole, 
+di non essere in grado di rispondere alle richieste o di non essere all’altezza delle 
+aspettative. 
+La tensione continua si manifesta: 
+ A livello emotivo: sotto forma di paura, rabbia, frustrazione; le conseguenze sul piano 
+comportamentale e psichico possono interessare aspetti dello stile di vita (abuso di alcol, 
+fumo, droghe e psicofarmaci) e disturbi come ansia e depressione; oppure può 
+manifestarsi sotto forma di iperattività e “atteggiamento frenetico” o disattenzione e 
+problemi di concentrazione. 
+ A livello fisico: come uno stato di continua tensione con effetti fisiologici quali 
+ipertensione, disturbi muscolo-scheletrici, gastrointestinali, del sonno; può portare a un 
+abbassamento delle difese immunitarie. 
+ attuare condizioni di lavoro trasparenti; 
+ favorire la partecipazione e la condivisione degli obiettivi dell’impresa; 
+ attivare un processo continuo d’informazione a due vie (dal basso verso l’alto e 
+viceversa); 
+ valorizzare le risorse umane, attraverso percorsi di formazione adeguati; 
+ progettare compiti lavorativi “a misura d’uomo”; 
+ informare e formare sullo stress. 
+Prevenzione secondaria e terziaria 
+Sono i livelli di azione cui si ricorre più frequentemente. 
+ Agiscono quando il processo di stress è già attivo; 
+ Mirano a modificare stili di vita e comportamenti ritenuti responsabili di danni alla salute 
+o a insegnare a reagire positivamente ed efficacemente agli agenti stressanti; 
+ Possono includere programmi di assistenza al singolo lavoratore (es. promuovendone 
+atteggiamenti attivi, propositivi e stimolando le capacità di scelta, ecc.). 
+Come prevenzione secondaria, quindi diagnosi precoce in fase preclinica: è importante che 
+siano rilevati, indirettamente o direttamente dal lavoratore, quei sintomi fisici, comportamentali 
+e psico-emozionali responsabili di un evidente cambiamento da una condizione psicofisica 
+normale. 
+Come prevenzione terziaria: istituire protocolli di riabilitazione supportati da competenze 
+sanitarie specifiche. 
+LAVORO IN TURNI / NOTTURNO 
+Il lavoro a turni, in particolare il lavoro notturno, costituisce un fattore di rischio aggiuntivo 
+per i lavoratori. 
+I problemi posti da tale forma dell’organizzazione dell’orario di lavoro riguardano 
+schematicamente quattro aspetti strettamente interconnessi: 
+ biologico: caratterizzato dalla perturbazione della normale ritmicità circadiana della 
+maggior parte delle funzioni biologiche, a partire dal ciclo sonno/veglia; 
+ lavorativo: risultante in alterazioni dell’efficienza lavorativa con conseguenti errori e 
+incidenti/infortuni; 
+ medico: costituito dalle modificazioni dello stato di salute, sia dal punto di vista 
+soggettivo (disagi, disturbi) che oggettivo (stati di malattia); 
+ sociale: conseguente al conflitto tra il tempo disponibile del turnista per le attività 
+familiari e sociali e i tempi spesso limitati nei quali tali attività possono essere svolte. 
+Criteri orientativi per una migliore organizzazione del lavoro 
+È indispensabile adottare dei correttivi che consentano il miglior compromesso possibile volto a 
+ridurre e limitare al massimo i disagi e gli effetti negativi connessi con il tipo di orario: 
+ ridurre l’orario annuale di lavoro per chi fa i turni di notte; 
+ regolare la lunghezza del turno notturno in base alla gravosità fisica e mentale del 
+compito; 
+ adottare cicli di turnazione non troppo lunghi e rotazioni il più possibili regolari; 
+ ricorrere a rotazioni a breve termine in modo da limitare al massimo il numero di notti 
+consecutive; 
+ evitare intervalli troppo brevi nel passaggio da un turno all’altro e consentire almeno 24 
+ore di riposo dopo il turno di notte. 
+ non iniziare troppo presto il turno del mattino; 
+ permettere una certa flessibilità negli orari di cambio turno; 
+ predisporre schemi di rotazione tali da consentire il maggior numero possibile di fine 
+settimana liberi; 
+ preferire la rotazione in ritardo di fase (mattino–pomeriggio–notte) nei sistemi a ciclo 
+continuo; 
+ consentire pasti il più possibile regolari, predisponendo servizi di mensa e pause 
+adeguate. 
+Sindrome dei turnisti 
+bash 
+CopyEdit 
+Sindrome dei Turnisti 
+/               
+\ 
+Insonnia         Eccessiva sonnolenza 
+\               
+/ 
+Aumento incidenti e/o infortuni sul lavoro 
+LAVORO IN SOLITARIO 
+Fra le diverse tipologie di lavoro, una in particolare merita un’analisi particolare per gli aspetti 
+che presenta: il lavoro solitario, o per meglio dire isolato, quella situazione cioè in cui il 
+lavoratore si trova ad operare da solo, senza alcun collega accanto e senza nessun contatto 
+diretto con altri lavoratori. 
+Il lavoro “solitario ed isolato” può costituire un problema critico, in determinate tipologie e 
+condizioni di lavoro (determinate anche dal contesto: ad esempio la distanza o meno da posti di 
+pronto soccorso, l’accessibilità della zona, la possibilità e frequenza di accessi alla stessa, la 
+copertura della telefonia cellulare, ecc.). 
+Durante il giorno e in particolare di notte, alcune criticità del lavoro solitario presenti durante 
+il lavoro diurno, sono accentuate e accresciute durante il turno di notte. 
+Il disagio dei lavoratori 
+Parte dei lavoratori addetti a turni di lavoro solitario, nelle sue più disparate tipologie, riferiscono 
+di provare una sensazione di disagio meglio definibile in “paura”, in particolare quando si tratta 
+di grandi impianti o quando il luogo di lavoro anche piccolo è situato in posti isolati. 
+Il disagio aumenta, insieme alla stanchezza, con il passare delle ore e il carico psicologico che 
+grava sul lavoratore in queste condizioni diventa un determinante di rischio e un’aggravante 
+dell’entità dello stesso. 
+Non è possibile affrontare in termini statistici il fenomeno, in quanto la componente individuale 
+e caratteriale del lavoratore gioca un ruolo fondamentale. È rilevabile una diffusione maggiore 
+nelle attività di controllo che in quelle manuali. 
+Criteri orientativi per una migliore organizzazione del lavoro 
+La prima indicazione che si può trarre è che la scelta dei lavoratori da adibire al lavoro solitario 
+avvenga almeno su base volontaria. 
+Le misure conseguenti alla valutazione del rischio, inoltre, possono essere attuate anche 
+prendendo in considerazione la possibilità di escludere il lavoro solitario, prendendo in 
+considerazione forme organizzative del lavoro che prevedano la garanzia di almeno due persone 
+contemporaneamente presenti sul luogo di lavoro, superando così la criticità del lavoro “solitario 
+ed isolato”. 
+Istruzioni dei lavoratori tenuti a lavorare in solitario 
+Riguardo alla formazione questi lavoratori devono essere istruiti idoneamente: 
+ sul lavoro che sono chiamati a svolgere e sull’uso delle attrezzature di lavoro; 
+ sui pericoli cui sono esposti e le misure di sicurezza da adottare; 
+ sui comportamenti da tenere in caso di situazioni eccezionali o di emergenza (guasti alle 
+macchine, intoppi nella produzione, fuoriuscita di liquidi o gas, incendio, ...); 
+ sui collegamenti da tenere con il posto di lavoro sicuro. 
+LAVORATRICI MADRI (GESTANTI E PUERPERE) 
+La gravidanza produce, fin dall’inizio, numerose modificazioni a carico dell’organismo materno 
+che influenzano le funzioni di molti organi ed apparati. 
+Tali cambiamenti possono condizionare la vita lavorativa della donna sia nel senso di una 
+maggiore suscettibilità allo stress e alla fatica fisica, sia per i possibili danni da agenti nocivi sul 
+feto/neonato. 
+Elenco dei fattori di rischio 
+Fattore di Rischio 
+Lavoro Notturno 
+Rumore 
+Effetti sulla gravidanza e sul 
+feto/neonato 
+Affaticamento mentale e fisico, patologie 
+connesse alle variazioni del ritmo cardiaco 
+Aumento della pressione sanguigna e 
+senso di stanchezza. Ridotte capacità 
+uditive del nascituro 
+Radiazioni Ionizzanti Effetti teratogeni, mutageni, 
+cancerogeni. 
+Sollecitazioni termiche 
+(stress da calore, 
+esposizione alle basse 
+temperature) 
+Movimentazione 
+Manuale dei Carichi 
+(MMC) 
+Posture incongrue, 
+posture erette 
+prolungate 
+Accentuazione disturbi 
+circolatori/metabolici/fisiologici 
+presenti in gravidanza. 
+Minaccia di aborto, parto prematuro, 
+basso peso alla nascita, lesioni a carico 
+del rachide. 
+Insufficienza venosa arti inferiori. Stasi 
+pelvica. Lombalgia. 
+Misure di prevenzione 
+Divieto di effettuare turni in 
+gravidanza e fino ad 1 anno dal 
+parto (su richiesta fino ai 3 anni 
+del bambino o ai 12 anni per 
+genitore unico) 
+Divieto di esposizione (media) 
+giornaliera superiore a 80 dB(A) 
+Lex, per le gestanti. Divieto di 
+esposizione (media) giornaliera 
+superiore a 87 dB(A) Lex, fino a 
+sette mesi dopo il parto. 
+Divieto di accesso alle zone 
+controllate e sorvegliate per le 
+gestanti e fino a sette mesi 
+successivi al parto. Non 
+esporre al rischio le donne in 
+periodo di allattamento. 
+Divieto di esposizione a 
+sollecitazioni termiche per le 
+gestanti. Divieto di 
+esposizione a temperature 
+molto basse (celle frigo) fino 
+a sette mesi successivi al 
+parto. 
+Divieto di attività di 
+movimentazione manuale dei 
+carichi (spostamento 
+confezioni, bobine, pedane, 
+ecc., azioni di spinta e/o tiro) 
+per le gestanti. 
+Divieto di stazionamento in 
+piedi per più di metà 
+dell’orario per le gestanti. 
+Fattore di Rischio 
+Frequenti spostamenti 
+all’interno e all’esterno 
+del sito 
+Lavori in Postazioni 
+elevate (scale, 
+piattaforme) 
+Guida di automezzi 
+Uso di sostanze e 
+preparati pericolosi 
+(tossici, nocivi, corrosivi, 
+irritanti, cancerogeni, 
+teratogeni e mutageni) 
+Utilizzo di videoterminali 
+Effetti sulla gravidanza e sul 
+feto/neonato 
+Rischio di eccessivo affaticamento. 
+Rischio di caduta dall’alto. 
+Rischio da esposizione a vibrazioni, colpi, 
+urti all’addome. Incidenti stradali. 
+Vedere frasi di rischio sulle relative 
+schede di sicurezza. 
+Disturbi dorso lombari (Attualmente non 
+esistono dati certi sugli effetti provocati 
+sulla gravidanza dalle radiazioni non 
+ionizzanti) 
+Misure di prevenzione 
+Limitare il numero di 
+spostamenti ripetuti per le 
+gestanti. 
+Vietato lo svolgimento di 
+lavori in postazioni elevate 
+per le gestanti. 
+Attività vietata alle gestanti. 
+Divieto di utilizzo/esposizione a 
+tutte le sostanze pericolose per 
+le gestanti e fino a sette mesi 
+successivi al parto. 
+• Valutare se il lavoro consente 
+cambiamenti frequenti delle 
+posture;  
+• Modificare le condizioni e 
+l’orario di lavoro (pause);  
+• Organizzare il lavoro in modo 
+da consentire alle lavoratrici di 
+assentarsi secondo necessità (se 
+ciò risulta impossibile, assegnare 
+diverso compito lavorativo). 
+I principali riferimenti normativi 
+ D.Lgs. 151/01 “Testo unico delle disposizioni legislative in materia di tutela e sostegno 
+della maternità e della paternità, a norma dell’articolo 15 della legge 8 marzo 2000, n. 
+53” 
+ D.Lgs. 81/2008 e s.m.i., art. 183 / Titoli V - VII - IX 
+Valutazione del Rischio 
+Nel caso in cui lavoratrici madri, gestanti o puerpere (cioè durante il periodo di gravidanza e fino 
+ai sette mesi di età del figlio) siano esposte a fattori di rischio per la sicurezza e la salute (addette 
+a mansioni che comportino la potenziale esposizione ad agenti fisici, chimici e biologici, a 
+processi lavorativi o a condizioni di lavoro ne ad agenti fisici, chimici e biologici, a processi 
+lavorativi o a condizioni di lavoro a rischio; quasi tutte le fattispecie per le quali è prevista la 
+sorveglianza sanitaria) sono adottate le misure necessarie affinché l’esposizione al rischio sia 
+evitata. 
+Qualora i risultati della valutazione rivelino rischi per la salute e la sicurezza delle lavoratrici, 
+sarà evitata l’esposizione a rischio, modificando temporaneamente le condizioni e/o l’orario di 
+lavoro. Se tale modifica non sarà possibile, si provvederà a spostare le lavoratrici ad altre 
+mansioni, informando contestualmente gli Organi preposti competenti per territorio. 
+Detta valutazione preventiva consente di informare le lavoratrici, prima ancora che sopraggiunga 
+una gravidanza, dei rischi esistenti, delle misure di prevenzione e protezione che si ritiene di 
+dover adottare in tal caso e, quindi, dell’importanza che le stesse comunichino tempestivamente 
+il proprio stato, in modo che possano essere valutati con immediatezza i rischi specifici e adottate 
+le conseguenti misure di tutela. Tale aspetto riveste un carattere principalmente soggettivo e 
+pertanto è necessario informare le lavoratrici circa la necessità, in caso di gravidanza accertata, di 
+notificare tempestivamente al Datore di Lavoro, una certificazione medica specialistica che ne 
+attesti l’effettivo stato. 
+[Box pubblicitario] 
+SICUREZZA. 
+DOVERE ASSOLUTO, 
+DIRITTO INTOCCABILE. 
+Io lavoro sicuro. 
+Pubblicità Progresso - Fondazione per la Comunicazione Sociale 
+Schema semplificato delle modalità operative in gravidanza 
+1. Conferma della gravidanza 
+o La lavoratrice è certa di essere incinta. 
+2. Consegna del certificato 
+o Consegna al datore di lavoro (DdL) il certificato di gravidanza. 
+3. Valutazione dei rischi 
+o Il DdL, con il Servizio di Prevenzione e Protezione (SPP), valuta i rischi legati 
+all’attività lavorativa. 
+4. Se l’attività NON è a rischio 
+o La lavoratrice continua a lavorare normalmente. 
+o Se lo stato di gravidanza è avanzato e il lavoro è gravoso o pregiudizievole, la 
+lavoratrice può chiedere astensione anticipata con certificato medico → verifica 
+della Direzione Provinciale del Lavoro (D.P.L.). 
+ Se approvato: Astensione anticipata 3 mesi prima del parto + 3 mesi 
+dopo. 
+ Se non approvato: Astensione obbligatoria 2 mesi prima del parto + 3 
+mesi dopo. 
+5. Se l’attività È a rischio 
+o Il DdL valuta il cambio di mansione o il trasferimento a un’attività non a rischio. 
+o Se impossibile spostare la lavoratrice: Il DdL richiede alla D.P.L. l’astensione 
+per lavoro a rischio. 
+o Se possibile ricollocazione: 
+ La lavoratrice svolge attività compatibile. 
+ Può chiedere uscita posticipata (1 mese prima del parto + 4 mesi dopo) 
+con certificato medico e autorizzazione del Medico Competente. 
+6. Gravidanza con complicanze 
+o La lavoratrice consegna alla D.P.L. la domanda di astensione per gravidanza a 
+rischio con certificato del ginecologo. 
+Guida di automezzi 
+Guidare richiede un’alta concentrazione e capacità fisiche ottimali, che spesso vengono alterate 
+da fattori non derivanti solo da stanchezza, distrazione o imprudenza, ma anche dall’uso di alcol, 
+farmaci e stupefacenti. 
+ Il sonno e la stanchezza: 
+Sono tra i peggiori nemici per chi guida. Possono causare incidenti come uscite di strada, 
+non dovute a velocità eccessiva o a ostacoli, e la maggior parte dei tamponamenti violenti 
+senza cause identificabili o tracce di frenata. 
+ L’alcol: 
+Anche in piccole dosi limita le capacità psico-fisiche (percezione, attenzione, 
+elaborazione, valutazione). Gli effetti variano in base alla quantità di alcol nel sangue. 
+ I farmaci: 
+Alcuni medicinali (tranquillanti, ansiolitici, antidolorifici, antistaminici, sciroppi per la 
+tosse) interagiscono con l’alcol e ne potenziano gli effetti negativi, peggiorando 
+attenzione e percezione, soprattutto in condizioni di stanchezza, stress e mancanza di 
+sonno. 
+ Sostanze psicotrope: 
+Effetti dannosi certi con anfetamine, hashish, marijuana, eroina, sostanze di sintesi. 
+Altri fattori di rischio 
+1. Età: più a rischio la fascia 18-35 anni per stile di vita meno regolare ed eccessiva fiducia 
+nelle proprie capacità di resistenza. 
+2. Eccesso di cibo: richiama sangue verso il sistema digerente a scapito del cervello. 
+3. Lavoro a turni: altera la regolarità del sonno. 
+4. Russare sonoramente: provoca apnee che interrompono il sonno, con conseguenze 
+negative al risveglio. 
+Fattori di guida da non sottovalutare 
+ Tempo eccessivo di guida: dopo 2 ore consecutive di guida è necessario fermarsi e fare 
+una pausa di almeno 10 minuti. 
+ Viaggiare da soli: l’assenza di un passeggero che possa stimolare l’attenzione o 
+sostituire alla guida aumenta il rischio. 
+ Guidare di notte: i ritmi naturali del corpo sono più lenti, rendendo più pericolose le 
+attività che richiedono attenzione, come la guida. 
+ Disturbi del sonno: insonnia o tendenza ad addormentarsi riducono la sicurezza. 
+ Guida dopo affaticamento e stress: riduce la prontezza di riflessi e la concentrazione. 
+ Monotonia del viaggio: riduce l’attenzione. 
+ Temperatura alta nell’abitacolo: può aumentare il senso di stanchezza. 
+ Volume eccessivo dello stereo: provoca affaticamento sensoriale. 
+ Guida sotto il sole abbagliante: la luminosità eccessiva induce a chiudere le palpebre, 
+causando affaticamento sensoriale. 
+ Guida nella nebbia: l’attenzione si concentra eccessivamente su un punto, provocando 
+una sorta di “ipnosi da guida”. 
+Prima di mettersi alla guida è necessario: 
+ Non essere stanchi o malati. 
+ Evitare di guidare subito dopo un pasto pesante. 
+ Non assumere farmaci senza aver consultato un medico sui possibili effetti collaterali. 
+ Non consumare alcol o altre sostanze che alterino lo stato psicofisico. 
+Uso delle cinture di sicurezza 
+ Obbligatorio per conducente e tutti i passeggeri. 
+Eccezioni (non obbligati a usarle): 
+1. Forze di polizia e polizia municipale/provinciale in servizio di emergenza. 
+2. Conducenti e addetti a veicoli antincendio o sanitari in interventi urgenti. 
+3. Addetti ai servizi di vigilanza che effettuano scorte. 
+4. Istruttori di guida in servizio. 
+5. Persone con patologie particolari (con certificato medico). 
+6. Donne in gravidanza con certificato medico che attesti rischio nell’uso della cintura. 
+7. Passeggeri di veicoli per trasporto di più di 8 persone (oltre il conducente) in servizio 
+urbano e trasporto locale, in piedi o seduti fuori dalla cabina di guida. 
+8. Militari delle forze armate impegnati in attività istituzionali in emergenza. 
+Obbligo di visibilità 
+ È obbligatorio indossare giubbotto o bretelle retro-riflettenti ad alta visibilità quando 
+si esce dal veicolo per operazioni di emergenza. 
+ Consigliato tenerli nell’abitacolo e non nel bagagliaio, per poterli usare senza scendere 
+dal veicolo. 
+Attenzione al carico! 
+1. Il carico deve essere fissato per evitare caduta o dispersione. 
+2. Non deve limitare la visibilità del conducente o impedirgli i movimenti. 
+3. Non deve compromettere la stabilità del veicolo né coprire luci o segnalazioni visive. 
+4. Se il carico sporge oltre la sagoma del veicolo, deve essere segnalato con pannelli alle 
+estremità della sporgenza. 
+Rapina ed aggressione 
+I rischi derivanti da rapina o aggressione rientrano nei "nuovi rischi" presenti nell'ambiente di 
+lavoro. 
+Il datore di lavoro deve procedere a un’attenta valutazione anche di questi rischi. 
+Definizione 
+ Non esiste un vero e proprio "rischio rapina/aggressione" come categoria standard, ma 
+eventi delinquenziali possono costituire fonte di pericolo e incidere negativamente sulla 
+salute psicofisica dei lavoratori. 
+ Lo stress derivante dalla percezione di questo rischio può compromettere l’equilibrio 
+psicofisico del lavoratore. 
+Gestione del rischio 
+ Le misure tecniche da sole non bastano: è fondamentale la formazione del personale 
+potenzialmente esposto. 
+ La formazione deve fornire consapevolezza e strumenti pratici per affrontare situazioni 
+particolari di rischio. 
+Lavoratori particolarmente esposti 
+ Donne. 
+ Persone con disabilità. 
+ Lavoratori che operano da soli o in luoghi isolati. 
+ Lavoratori in strutture non adeguatamente attrezzate contro aggressioni. 
+ Lavoratori non adeguatamente formati professionalmente per gestire tali rischi. 
+Misure di tipo strutturale 
+ Dotare le postazioni a contatto con il pubblico di barriere fisiche (es. sportelli con vetri 
+antisfondamento). 
+ Installare sistemi sicuri di chiusura di porte e finestre per limitare il rischio di aggressioni, 
+soprattutto per chi lavora da solo o in orari di chiusura al pubblico. 
+ Usare videocitofoni per permettere comunicazioni con l’utente mantenendo una barriera 
+fisica. 
+ Dotare i cassaforti di apertura a tempo non manomissibile. 
+ Garantire illuminazione artificiale adeguata sia all’interno che nelle aree esterne 
+(parcheggi, vie di transito) per ridurre il rischio di aggressioni. 
+ Opacizzare i vetri delle finestre per impedire a malintenzionati di vedere all’interno. 
+ Assicurare la presenza di telefoni o altri sistemi di allarme. 
+ Rimuovere oggetti che possono essere usati come armi contundenti o da taglio (es. 
+posacenere pesanti, forbici, vasi). 
+Misure di tipo organizzativo 
+ Formare il personale sui protocolli aziendali di gestione del “rischio aggressioni fisiche”. 
+ Realizzare campagne informative per la gestione dei clienti e la prevenzione di conflitti. 
+ Organizzare il lavoro in modo che ci sia sempre un numero minimo di operatori (es. 
+almeno due). 
+ Creare procedure per contattare le forze dell’ordine in caso di situazioni non gestibili dal 
+personale. 
